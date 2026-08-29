@@ -1,7 +1,4 @@
 #EXTM3U url-tvg="http://ostvasia.xyz:80/xmltv.php?username=tipu270219&password=dwhtKk6Ya"
-#EXTINF:-1 tvg-id="" tvg-name="--- MY CUSTOM LIST ---" tvg-logo="" group-title="ℹ️ SYSTEM",--- ช่องโปรดที่เลือกไว้ ---
-http://localhost/dummy_channel
-
 #EXTINF:-1 tvg-id="697153" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 24/7
 http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697153.ts
 #EXTINF:-1 tvg-id="697154" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 01: Crystal Palace vs Manchester City (Fri 20:00 UK)
