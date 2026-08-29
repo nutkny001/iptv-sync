@@ -6,7 +6,6 @@ USERNAME = "tipu270219"
 PASSWORD = "dwhtKk6Ya"
 OUTPUT_LIVE_M3U = "live_only_ostvasia.m3u"
 
-# กำหนด Category ID ที่ต้องการดึง
 TARGET_CATEGORY_IDS = ["1624"] 
 
 headers = {
@@ -46,14 +45,12 @@ def get_live_via_api():
                 if cat_id in TARGET_CATEGORY_IDS:
                     name = item.get("name", "Unknown")
                     stream_id = item.get("stream_id")
-                    
-                    # ตั้งชื่อ Group ตรงนี้ตายตัว เพื่อให้แอป IPTV จัดหมวดหมู่ทันที
                     group_title = "LIVE | MonoMax (EPL)"
-                    
                     container_extension = item.get("container_extension", "ts")
                     stream_url = f"{HOST}/live/{USERNAME}/{PASSWORD}/{stream_id}.{container_extension}"
 
-                    f.write(f'#EXTINF:-1 tvg-id="{stream_id}" group-title="{group_title}", {name}\n')
+                    # จัดรูปแบบ syntax M3U ให้ถูกต้องตามมาตรฐานแอป IPTV
+                    f.write(f'#EXTINF:-1 tvg-id="{stream_id}" group-title="{group_title}",{name}\n')
                     f.write(f"{stream_url}\n")
                     count += 1
 
