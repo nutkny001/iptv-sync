@@ -6,9 +6,6 @@ USERNAME = "tipu270219"
 PASSWORD = "dwhtKk6Ya"
 OUTPUT_LIVE_M3U = "live_only_ostvasia.m3u"
 
-# กำหนด Category ID ที่ต้องการดึง (เช่น '1624') หรือระบุหลายกลุ่มได้ เช่น ['1624', '1625']
-TARGET_CATEGORY_IDS = ["1624"] 
-
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
@@ -30,19 +27,6 @@ def get_live_via_api():
             print("[-] บัญชีมีปัญหา หรือหมดอายุ")
             return
 
-        # ดึงรายชื่อหมวดหมู่เพื่อแปลง ID เป็นชื่อจริง
-        categories_url = f"{HOST}/player_api.php?username={USERNAME}&password={PASSWORD}&action=get_live_categories"
-        res_cat = requests.get(categories_url, headers=headers, timeout=30)
-        cat_data = res_cat.json()
-        
-        category_map = {}
-        if isinstance(cat_data, list):
-            for cat in cat_data:
-                cat_id = str(cat.get("category_id"))
-                cat_name = cat.get("category_name", "Uncategorized")
-                category_map[cat_id] = cat_name
-
-        # ดึงรายชื่อช่องสดทั้งหมด
         print("[2] กำลังดึงรายชื่อช่องสด (Live Streams) จาก API...")
         get_live_url = f"{HOST}/player_api.php?username={USERNAME}&password={PASSWORD}&action=get_live_streams"
 
@@ -53,31 +37,27 @@ def get_live_via_api():
             print("[-] ไม่พบรายการช่องสดจาก API")
             return
 
-        print(f"[3] กำลังกรองเฉพาะกลุ่มที่ต้องการและสร้างไฟล์ {OUTPUT_LIVE_M3U}...")
+        print(f"[+] พบช่องสดทั้งหมด {len(live_data)} ช่อง!")
+
+        print(f"[3] กำลังสร้างไฟล์ {OUTPUT_LIVE_M3U}...")
         epg_url = f"{HOST}/xmltv.php?username={USERNAME}&password={PASSWORD}"
 
-        count = 0
         with open(OUTPUT_LIVE_M3U, "w", encoding="utf-8") as f:
+            # ใส่เฉพาะลิงก์ EPG เริ่มต้นโดยไม่เอาหัวข้อ SYSTEM
             f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
 
-
             for item in live_data:
-                cat_id = str(item.get("category_id", ""))
-                
-                # เงื่อนไขกรองเฉพาะ ID ที่อยู่ใน TARGET_CATEGORY_IDS เท่านั้น
-                if cat_id in TARGET_CATEGORY_IDS:
-                    name = item.get("name", "Unknown")
-                    stream_id = item.get("stream_id")
-                    group_title = category_map.get(cat_id, "General")
-                    container_extension = item.get("container_extension", "ts")
+                name = item.get("name", "Unknown")
+                stream_id = item.get("stream_id")
+                category_id = item.get("category_id", "")
+                container_extension = item.get("container_extension", "ts")
 
-                    stream_url = f"{HOST}/live/{USERNAME}/{PASSWORD}/{stream_id}.{container_extension}"
+                stream_url = f"{HOST}/live/{USERNAME}/{PASSWORD}/{stream_id}.{container_extension}"
 
-                    f.write(f'#EXTINF:-1 tvg-id="{stream_id}" group-title="{group_title}", {name}\n')
-                    f.write(f"{stream_url}\n")
-                    count += 1
+                f.write(f'#EXTINF:-1 tvg-id="{stream_id}" group-title="{category_id}", {name}\n')
+                f.write(f"{stream_url}\n")
 
-        print(f"[✔] สำเร็จ! กรองมาได้ทั้งหมด {count} ช่อง และบันทึกไฟล์เรียบร้อยแล้ว")
+        print(f"[✔] บันทึกไฟล์สำเร็จ: {OUTPUT_LIVE_M3U}")
 
     except Exception as e:
         print(f"[-] เกิดข้อผิดพลาด: {e}")
