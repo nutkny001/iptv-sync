@@ -1,7 +1,7 @@
 import os
 import json
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 # ดึงค่าจาก GitHub Secrets
 HOST = os.getenv("API_HOST", "http://ostvasia.xyz").strip()
@@ -55,10 +55,12 @@ def get_live_via_api():
         else:
             exp_date_str = "Unlimited"
 
-        now_str = datetime.now().strftime('%d-%m-%Y %H:%M')
+        # ตั้งเวลาปัจจุบันให้เป็นเวลาประเทศไทย (UTC+7)
+        thai_time = datetime.now(timezone.utc) + timedelta(hours=7)
+        now_str = thai_time.strftime('%d-%m-%Y %H:%M')
 
         print(f"[i] วันหมดอายุ: {exp_date_str}")
-        print(f"[i] อัปเดตล่าสุดเมื่อ: {now_str}")
+        print(f"[i] อัปเดตล่าสุดเมื่อ (เวลาไทย): {now_str}")
 
         print("[2] กำลังดึงช่องสด...")
         live_url = f"{HOST}/player_api.php?username={USERNAME}&password={PASSWORD}&action=get_live_streams"
