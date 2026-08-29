@@ -1,12 +1,14 @@
+import os
 import json
 import requests
 
-HOST = "http://ostvasia.xyz:80"
-USERNAME = "tipu270219"
-PASSWORD = "dwhtKk6Ya"
+# ดึงค่าจาก GitHub Secrets ที่ส่งเข้ามาตอนรันงาน
+HOST = os.getenv("API_HOST", "http://ostvasia.xyz:80")
+USERNAME = os.getenv("API_USERNAME", "")
+PASSWORD = os.getenv("API_PASSWORD", "")
 OUTPUT_LIVE_M3U = "live_only_ostvasia.m3u"
 
-# กำหนดชื่อกลุ่มและรหัสหมวดหมู่ตามที่คุณต้องการ
+# กำหนดชื่อกลุ่มและรหัสหมวดหมู่
 CATEGORY_MAPPING = {
     "1624": "TH | MonoMax PL EVENT",
     "7050": "EPL Event",
@@ -28,6 +30,10 @@ headers = {
 }
 
 def get_live_via_api():
+    if not USERNAME or not PASSWORD:
+        print("[-] ไม่พบ Username หรือ Password กรุณาตรวจสอบการตั้งค่า")
+        return
+
     print("[1] กำลังยืนยันตัวตนผ่าน Xtream Codes API...")
     auth_url = f"{HOST}/player_api.php?username={USERNAME}&password={PASSWORD}"
 
@@ -60,10 +66,7 @@ def get_live_via_api():
                 if cat_id in TARGET_CATEGORY_IDS:
                     name = item.get("name", "Unknown")
                     stream_id = item.get("stream_id")
-                    
-                    # ดึงชื่อกลุ่มจาก Mapping ที่ตั้งไว้
                     group_title = CATEGORY_MAPPING.get(cat_id, "LIVE | Streams")
-                    
                     container_extension = item.get("container_extension", "ts")
                     stream_url = f"{HOST}/live/{USERNAME}/{PASSWORD}/{stream_id}.{container_extension}"
 
