@@ -54,7 +54,7 @@ def get_live_via_api():
         else:
             exp_date_str = "Unlimited"
 
-        # ดึงเวลาปัจจุบันที่สคริปต์กำลังรัน (อ้างอิงเวลาจริง)
+        # ดึงเวลาปัจจุบันที่สคริปต์กำลังรัน
         now_str = datetime.now().strftime('%d-%m-%Y %H:%M')
 
         print(f"[i] วันหมดอายุ: {exp_date_str}")
@@ -85,10 +85,14 @@ def get_live_via_api():
             for item in live_data:
                 cat_id = str(item.get("category_id", ""))
                 
-                if cat_id in TARGET_CATEGORY_IDS:
+                # เช็คเงื่อนไขจาก Category Mapping ที่เรากำหนด
+                if cat_id in CATEGORY_MAPPING:
                     name = item.get("name", "Unknown")
                     stream_id = item.get("stream_id")
-                    group_title = CATEGORY_MAPPING.get(cat_id, "LIVE | Streams")
+                    
+                    # ดึงชื่อกลุ่มตรงตาม Mapping ที่ตั้งไว้
+                    group_title = CATEGORY_MAPPING[cat_id]
+                    
                     container_extension = item.get("container_extension", "ts")
                     stream_url = f"{HOST}/live/{USERNAME}/{PASSWORD}/{stream_id}.{container_extension}"
 
