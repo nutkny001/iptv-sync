@@ -59,8 +59,7 @@ def get_live_via_api():
         count = 0
         with open(OUTPUT_LIVE_M3U, "w", encoding="utf-8") as f:
             f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
-            f.write('#EXTINF:-1 tvg-id="" tvg-name="--- MY CUSTOM LIST ---" tvg-logo="" group-title="ℹ️ SYSTEM",--- ช่องโปรดที่เลือกไว้ ---\n')
-            f.write('http://localhost/dummy_channel\n\n')
+
 
             for item in live_data:
                 cat_id = str(item.get("category_id", ""))
