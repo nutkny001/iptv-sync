@@ -1,23 +1,559 @@
-#EXTM3U url-tvg="http://ostvasia.xyz:80/xmltv.php?username=tipu270219&password=dwhtKk6Ya"
-#EXTINF:-1 tvg-id="697153" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 24/7
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697153.ts
-#EXTINF:-1 tvg-id="697154" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 01: Crystal Palace vs Manchester City (Fri 20:00 UK)
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697154.ts
-#EXTINF:-1 tvg-id="697155" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 02: Liverpool vs Nottingham Forest (Sat 12:30 UK)
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697155.ts
-#EXTINF:-1 tvg-id="697156" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 03: Bournemouth vs Everton (Sat 15:00 UK)
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697156.ts
-#EXTINF:-1 tvg-id="697157" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 04: Coventry City vs Hull City (Sat 15:00 UK)
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697157.ts
-#EXTINF:-1 tvg-id="697158" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 05: Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697158.ts
-#EXTINF:-1 tvg-id="697159" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 06: Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697159.ts
-#EXTINF:-1 tvg-id="697160" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 07: Leeds United vs Brentford (Sun 14:00 UK)
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697160.ts
-#EXTINF:-1 tvg-id="697161" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 08: Sunderland vs Fulham (Sun 14:00 UK)
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697161.ts
-#EXTINF:-1 tvg-id="396308" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 09: Manchester United vs Ipswich Town (Sun 16:30 UK)
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/396308.ts
-#EXTINF:-1 tvg-id="945352" group-title="LIVE | MonoMax (EPL)",TH | MonoMax PL 10: Aston Villa vs Arsenal (Mon 20:00 UK)
-http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/945352.ts
+#EXTM3U url-tvg="http://ostvasia.xyz/xmltv.php?username=tipu270219&password=dwhtKk6Ya"
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",⚠️ 🔴 บัญชีหมดอายุ: 19-02-2027 🔴
+http://clients.link/expired
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 29-08-2026 21:02 🟢
+http://clients.link/updated
+#EXTINF:-1 tvg-id="2659492" group-title="HK | Now HK PL",HK | Now HK PL 1 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659492.ts
+#EXTINF:-1 tvg-id="2659491" group-title="HK | Now HK PL",HK | Now HK PL 2 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659491.ts
+#EXTINF:-1 tvg-id="2659490" group-title="HK | Now HK PL",HK | Now HK PL 3 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659490.ts
+#EXTINF:-1 tvg-id="2659489" group-title="HK | Now HK PL",HK | Now HK PL 4 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659489.ts
+#EXTINF:-1 tvg-id="2659488" group-title="HK | Now HK PL",HK | Now HK PL 5 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659488.ts
+#EXTINF:-1 tvg-id="2659487" group-title="HK | Now HK PL",HK | Now HK PL 6 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659487.ts
+#EXTINF:-1 tvg-id="2658893" group-title="PL+ | Premier League Event",PL+|  Premier League Live 24/7 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658893.ts
+#EXTINF:-1 tvg-id="2658899" group-title="PL+ | Premier League Event",PL+|  Premier League Live 24/7 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658899.ts
+#EXTINF:-1 tvg-id="2658900" group-title="PL+ | Premier League Event",PL+|  Premier League Live 24/7
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658900.ts
+#EXTINF:-1 tvg-id="2658945" group-title="PL+ | Premier League Event",PL+ 001|  Crystal Palace v Manchester City - High Behind (2026-08-28 18:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658945.ts
+#EXTINF:-1 tvg-id="2658944" group-title="PL+ | Premier League Event",PL+ 002|  Crystal Palace v Manchester City (2026-08-28 18:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658944.ts
+#EXTINF:-1 tvg-id="2658943" group-title="PL+ | Premier League Event",PL+ 003|  Crystal Palace v Manchester City - Tactical Camera (2026-08-28 18:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658943.ts
+#EXTINF:-1 tvg-id="2658942" group-title="PL+ | Premier League Event",PL+ 004|  Crystal Palace v Manchester City - Host Corner 2 (2026-08-28 18:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658942.ts
+#EXTINF:-1 tvg-id="2658941" group-title="PL+ | Premier League Event",PL+ 005|  Crystal Palace v Manchester City - Host Corner 1 (2026-08-28 18:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658941.ts
+#EXTINF:-1 tvg-id="2658940" group-title="PL+ | Premier League Event",PL+ 006|  Crystal Palace v Manchester City - High Motion (2026-08-28 18:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658940.ts
+#EXTINF:-1 tvg-id="2658939" group-title="PL+ | Premier League Event",PL+ 007|  Crystal Palace v Manchester City (S) (2026-08-28 18:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658939.ts
+#EXTINF:-1 tvg-id="2658938" group-title="PL+ | Premier League Event",PL+ 008|  Liverpool v Nottingham Forest (S) (2026-08-29 11:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658938.ts
+#EXTINF:-1 tvg-id="2658937" group-title="PL+ | Premier League Event",PL+ 009|  Liverpool v Nottingham Forest (2026-08-29 11:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658937.ts
+#EXTINF:-1 tvg-id="2658936" group-title="PL+ | Premier League Event",PL+ 010|  Bournemouth v Everton (S) (2026-08-29 13:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658936.ts
+#EXTINF:-1 tvg-id="2658935" group-title="PL+ | Premier League Event",PL+ 011|  Bournemouth v Everton (2026-08-29 13:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658935.ts
+#EXTINF:-1 tvg-id="2658934" group-title="PL+ | Premier League Event",PL+ 012|  [4K] Coventry City v Hull City (S) (2026-08-29 13:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658934.ts
+#EXTINF:-1 tvg-id="2658933" group-title="PL+ | Premier League Event",PL+ 013|  Coventry City v Hull City (2026-08-29 13:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658933.ts
+#EXTINF:-1 tvg-id="2658932" group-title="PL+ | Premier League Event",PL+ 014|  multiview-20260829-01 - Multiview01 (2026-08-29 13:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658932.ts
+#EXTINF:-1 tvg-id="2658931" group-title="PL+ | Premier League Event",PL+ 015|  Tottenham Hotspur v Newcastle United - Tactical Camera (2026-08-29 16:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658931.ts
+#EXTINF:-1 tvg-id="2658930" group-title="PL+ | Premier League Event",PL+ 016|  Tottenham Hotspur v Newcastle United (S) (2026-08-29 16:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658930.ts
+#EXTINF:-1 tvg-id="2658929" group-title="PL+ | Premier League Event",PL+ 017|  Tottenham Hotspur v Newcastle United - Player Cam (2026-08-29 16:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658929.ts
+#EXTINF:-1 tvg-id="2658928" group-title="PL+ | Premier League Event",PL+ 018|  Tottenham Hotspur v Newcastle United - Host Corner 2 (2026-08-29 16:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658928.ts
+#EXTINF:-1 tvg-id="2658926" group-title="PL+ | Premier League Event",PL+ 020|  Tottenham Hotspur v Newcastle United - High Motion (2026-08-29 16:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658926.ts
+#EXTINF:-1 tvg-id="2658925" group-title="PL+ | Premier League Event",PL+ 021|  Tottenham Hotspur v Newcastle United - Host Corner 1 (2026-08-29 16:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658925.ts
+#EXTINF:-1 tvg-id="2658924" group-title="PL+ | Premier League Event",PL+ 022|  Tottenham Hotspur v Newcastle United - High Behind (2026-08-29 16:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658924.ts
+#EXTINF:-1 tvg-id="2658923" group-title="PL+ | Premier League Event",PL+ 023|  Sunderland v Fulham (S) (2026-08-30 12:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658923.ts
+#EXTINF:-1 tvg-id="2658922" group-title="PL+ | Premier League Event",PL+ 024|  Sunderland v Fulham (2026-08-30 12:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658922.ts
+#EXTINF:-1 tvg-id="2658921" group-title="PL+ | Premier League Event",PL+ 025|  multiview-20260830-01 - Multiview01 (2026-08-30 12:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658921.ts
+#EXTINF:-1 tvg-id="2658920" group-title="PL+ | Premier League Event",PL+ 026|  Leeds United v Brentford (2026-08-30 12:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658920.ts
+#EXTINF:-1 tvg-id="2658919" group-title="PL+ | Premier League Event",PL+ 027|  [4K] Leeds United v Brentford (S) (2026-08-30 12:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658919.ts
+#EXTINF:-1 tvg-id="2658918" group-title="PL+ | Premier League Event",PL+ 028|  Chelsea v Brighton & Hove Albion (2026-08-30 12:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658918.ts
+#EXTINF:-1 tvg-id="2658917" group-title="PL+ | Premier League Event",PL+ 029|  Chelsea v Brighton & Hove Albion (S) (2026-08-30 12:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658917.ts
+#EXTINF:-1 tvg-id="2658916" group-title="PL+ | Premier League Event",PL+ 030|  Manchester United v Ipswich Town - Player Cam (2026-08-30 15:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658916.ts
+#EXTINF:-1 tvg-id="2658915" group-title="PL+ | Premier League Event",PL+ 031|  Manchester United v Ipswich Town (2026-08-30 15:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658915.ts
+#EXTINF:-1 tvg-id="2658914" group-title="PL+ | Premier League Event",PL+ 032|  Manchester United v Ipswich Town (S) (2026-08-30 15:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658914.ts
+#EXTINF:-1 tvg-id="2658913" group-title="PL+ | Premier League Event",PL+ 033|  Manchester United v Ipswich Town - High Behind (2026-08-30 15:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658913.ts
+#EXTINF:-1 tvg-id="2658912" group-title="PL+ | Premier League Event",PL+ 034|  Manchester United v Ipswich Town - Host Corner 2 (2026-08-30 15:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658912.ts
+#EXTINF:-1 tvg-id="2658911" group-title="PL+ | Premier League Event",PL+ 035|  Manchester United v Ipswich Town - High Motion (2026-08-30 15:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658911.ts
+#EXTINF:-1 tvg-id="2658910" group-title="PL+ | Premier League Event",PL+ 036|  Manchester United v Ipswich Town - Host Corner 1 (2026-08-30 15:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658910.ts
+#EXTINF:-1 tvg-id="2658909" group-title="PL+ | Premier League Event",PL+ 037|  Manchester United v Ipswich Town - Tactical Camera (2026-08-30 15:20:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658909.ts
+#EXTINF:-1 tvg-id="2658908" group-title="PL+ | Premier League Event",PL+ 038|  Aston Villa v Arsenal - High Motion (2026-08-31 18:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658908.ts
+#EXTINF:-1 tvg-id="2658907" group-title="PL+ | Premier League Event",PL+ 039|  Aston Villa v Arsenal - Host Corner 1 (2026-08-31 18:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658907.ts
+#EXTINF:-1 tvg-id="2658906" group-title="PL+ | Premier League Event",PL+ 040|  Aston Villa v Arsenal (2026-08-31 18:50:00)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658906.ts
+#EXTINF:-1 tvg-id="849529" group-title="EPL | Hub Event",EPL | Fubo Sports 4K
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/849529.ts
+#EXTINF:-1 tvg-id="848958" group-title="EPL | Hub Event",EPL | Stan 4K UHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/848958.ts
+#EXTINF:-1 tvg-id="839012" group-title="Ligue 1 Pass",L1 Pass 01 | Lille vs PSG (Fri 19:45 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839012.ts
+#EXTINF:-1 tvg-id="839011" group-title="Ligue 1 Pass",L1 Pass 02 | Strasbourg vs Lens (Sat 16:15 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839011.ts
+#EXTINF:-1 tvg-id="839010" group-title="Ligue 1 Pass",L1 Pass 03 | Auxerre vs Angers (Sat 19:45 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839010.ts
+#EXTINF:-1 tvg-id="839009" group-title="Ligue 1 Pass",L1 Pass 04 | Brest vs Toulouse (Sat 19:45 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839009.ts
+#EXTINF:-1 tvg-id="839008" group-title="Ligue 1 Pass",L1 Pass 05 | Lyon vs Le Havre (Sat 19:45 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839008.ts
+#EXTINF:-1 tvg-id="839007" group-title="Ligue 1 Pass",L1 Pass 06 | Lorient vs Troyes (Sat 19:45 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839007.ts
+#EXTINF:-1 tvg-id="839006" group-title="Ligue 1 Pass",L1 Pass 07 | Paris FC vs Nice (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839006.ts
+#EXTINF:-1 tvg-id="839005" group-title="Ligue 1 Pass",L1 Pass 08 | Rennes vs Le Mans (Sun 16:15 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839005.ts
+#EXTINF:-1 tvg-id="839004" group-title="Ligue 1 Pass",L1 Pass 09 | Monaco vs Marseille (Sun 19:45 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839004.ts
+#EXTINF:-1 tvg-id="838673" group-title="WSL & FA Player",WSL 01 | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/838673.ts
+#EXTINF:-1 tvg-id="838672" group-title="WSL & FA Player",WSL 02 | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/838672.ts
+#EXTINF:-1 tvg-id="838671" group-title="WSL & FA Player",WSL 03 | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/838671.ts
+#EXTINF:-1 tvg-id="838670" group-title="WSL & FA Player",WSL 04 | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/838670.ts
+#EXTINF:-1 tvg-id="838669" group-title="WSL & FA Player",WSL 05 | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/838669.ts
+#EXTINF:-1 tvg-id="838668" group-title="WSL & FA Player",WSL 06 | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/838668.ts
+#EXTINF:-1 tvg-id="838340" group-title="La Liga Event",La Liga | La Liga TV
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/838340.ts
+#EXTINF:-1 tvg-id="838337" group-title="La Liga Event",La Liga | SS SuperSports
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/838337.ts
+#EXTINF:-1 tvg-id="838334" group-title="La Liga Event",La Liga | Now Sports 2
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/838334.ts
+#EXTINF:-1 tvg-id="837878" group-title="La Liga Event",La Liga | Now Sports 3
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837878.ts
+#EXTINF:-1 tvg-id="837877" group-title="La Liga Event",La Liga | bein Sports
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837877.ts
+#EXTINF:-1 tvg-id="837875" group-title="La Liga Event",La Liga | ES: DAZN La Liga
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837875.ts
+#EXTINF:-1 tvg-id="837874" group-title="La Liga Event",La Liga | ES: La Liga por M+ FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837874.ts
+#EXTINF:-1 tvg-id="837873" group-title="La Liga Event",DEPORTIVO ALAVES (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837873.ts
+#EXTINF:-1 tvg-id="837872" group-title="La Liga Event",ATHLETIC CLUB (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837872.ts
+#EXTINF:-1 tvg-id="837871" group-title="La Liga Event",ATLETICO DE MADRID (Sat 20:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837871.ts
+#EXTINF:-1 tvg-id="837870" group-title="La Liga Event",FC BARCELONA (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837870.ts
+#EXTINF:-1 tvg-id="837869" group-title="La Liga Event",RC CELTA DE VIGO (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837869.ts
+#EXTINF:-1 tvg-id="837866" group-title="La Liga Event",RC DEPORTIVO (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837866.ts
+#EXTINF:-1 tvg-id="837865" group-title="La Liga Event",ELCHE CF (Fri 18:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837865.ts
+#EXTINF:-1 tvg-id="837868" group-title="La Liga Event",RCD ESPANYOL (Sat 18:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837868.ts
+#EXTINF:-1 tvg-id="837867" group-title="La Liga Event",GETAFE CF (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837867.ts
+#EXTINF:-1 tvg-id="837863" group-title="La Liga Event",LEVANTE UD (Sat 16:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837863.ts
+#EXTINF:-1 tvg-id="837862" group-title="La Liga Event",MALAGA CF (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837862.ts
+#EXTINF:-1 tvg-id="837861" group-title="La Liga Event",CA OSASUNA (Mon 19:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837861.ts
+#EXTINF:-1 tvg-id="837853" group-title="La Liga Event",RACING DE SANTANDER (Fri 18:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837853.ts
+#EXTINF:-1 tvg-id="837860" group-title="La Liga Event",RAYO VALLECANO (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837860.ts
+#EXTINF:-1 tvg-id="837859" group-title="La Liga Event",REAL BETIS (Sat 16:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837859.ts
+#EXTINF:-1 tvg-id="837858" group-title="La Liga Event",REAL MADRID CF (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837858.ts
+#EXTINF:-1 tvg-id="837856" group-title="La Liga Event",REAL SOCIEDAD (Sat 18:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837856.ts
+#EXTINF:-1 tvg-id="837855" group-title="La Liga Event",SEVILLA FC (Sat 20:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837855.ts
+#EXTINF:-1 tvg-id="837854" group-title="La Liga Event",VALENCIA CF (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837854.ts
+#EXTINF:-1 tvg-id="837852" group-title="La Liga Event",VILLARREAL CF (Fri 20:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837852.ts
+#EXTINF:-1 tvg-id="713930" group-title="EPL Event",01. EPL | Goal Rush Match Day # 1 (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713930.ts
+#EXTINF:-1 tvg-id="713931" group-title="EPL Event",02. EPL | Goal Rush Match Day # 1 (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713931.ts
+#EXTINF:-1 tvg-id="773560" group-title="EPL Event",03. EPL 01 | Crystal Palace vs Manchester City (Fri 20:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773560.ts
+#EXTINF:-1 tvg-id="773561" group-title="EPL Event",04. EPL 01 | Crystal Palace vs Manchester City (Fri 20:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773561.ts
+#EXTINF:-1 tvg-id="773562" group-title="EPL Event",05. EPL 01 | Crystal Palace vs Manchester City (Fri 20:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773562.ts
+#EXTINF:-1 tvg-id="773564" group-title="EPL Event",06. EPL 01 | Crystal Palace vs Manchester City (Fri 20:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773564.ts
+#EXTINF:-1 tvg-id="773565" group-title="EPL Event",07. EPL 02 | Liverpool vs Nottingham Forest (Sat 12:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773565.ts
+#EXTINF:-1 tvg-id="773567" group-title="EPL Event",08. EPL 02 | Liverpool vs Nottingham Forest (Sat 12:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773567.ts
+#EXTINF:-1 tvg-id="773568" group-title="EPL Event",09. EPL 02 | Liverpool vs Nottingham Forest (Sat 12:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773568.ts
+#EXTINF:-1 tvg-id="773569" group-title="EPL Event",10. EPL 02 | Liverpool vs Nottingham Forest (Sat 12:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773569.ts
+#EXTINF:-1 tvg-id="821863" group-title="EFL Cup Event",EFL01:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821863.ts
+#EXTINF:-1 tvg-id="821862" group-title="EFL Cup Event",EFL02:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821862.ts
+#EXTINF:-1 tvg-id="821861" group-title="EFL Cup Event",EFL03:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821861.ts
+#EXTINF:-1 tvg-id="821860" group-title="EFL Cup Event",EFL04:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821860.ts
+#EXTINF:-1 tvg-id="821859" group-title="EFL Cup Event",EFL05:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821859.ts
+#EXTINF:-1 tvg-id="821858" group-title="EFL Cup Event",EFL06:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821858.ts
+#EXTINF:-1 tvg-id="821857" group-title="EFL Cup Event",EFL07:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821857.ts
+#EXTINF:-1 tvg-id="821856" group-title="EFL Cup Event",EFL08:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821856.ts
+#EXTINF:-1 tvg-id="821855" group-title="EFL Cup Event",EFL09:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821855.ts
+#EXTINF:-1 tvg-id="821854" group-title="EFL Cup Event",EFL10:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821854.ts
+#EXTINF:-1 tvg-id="450680" group-title="EFL Cup Event",EFL11:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/450680.ts
+#EXTINF:-1 tvg-id="821852" group-title="EFL Cup Event",EFL12:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821852.ts
+#EXTINF:-1 tvg-id="821851" group-title="EFL Cup Event",EFL13:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821851.ts
+#EXTINF:-1 tvg-id="821850" group-title="EFL Cup Event",EFL14:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821850.ts
+#EXTINF:-1 tvg-id="821849" group-title="EFL Cup Event",EFL15:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821849.ts
+#EXTINF:-1 tvg-id="821848" group-title="EFL Cup Event",EFL16:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821848.ts
+#EXTINF:-1 tvg-id="821847" group-title="EFL Cup Event",EFL17:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821847.ts
+#EXTINF:-1 tvg-id="821846" group-title="EFL Cup Event",EFL18:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821846.ts
+#EXTINF:-1 tvg-id="821845" group-title="EFL Cup Event",EFL19:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821845.ts
+#EXTINF:-1 tvg-id="821844" group-title="EFL Cup Event",EFL20:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821844.ts
+#EXTINF:-1 tvg-id="821843" group-title="EFL Cup Event",EFL21:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821843.ts
+#EXTINF:-1 tvg-id="821842" group-title="EFL Cup Event",EFL22:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821842.ts
+#EXTINF:-1 tvg-id="821841" group-title="EFL Cup Event",EFL23:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821841.ts
+#EXTINF:-1 tvg-id="821840" group-title="EFL Cup Event",EFL24:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821840.ts
+#EXTINF:-1 tvg-id="821839" group-title="EFL Cup Event",EFL25:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821839.ts
+#EXTINF:-1 tvg-id="821838" group-title="EFL Cup Event",EFL26:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821838.ts
+#EXTINF:-1 tvg-id="821837" group-title="EFL Cup Event",EFL27:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821837.ts
+#EXTINF:-1 tvg-id="821836" group-title="EFL Cup Event",EFL28:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821836.ts
+#EXTINF:-1 tvg-id="821835" group-title="EFL Cup Event",EFL29:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821835.ts
+#EXTINF:-1 tvg-id="821834" group-title="EFL Cup Event",EFL30:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821834.ts
+#EXTINF:-1 tvg-id="821833" group-title="EFL Cup Event",EFL31:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821833.ts
+#EXTINF:-1 tvg-id="821832" group-title="EFL Cup Event",EFL32:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821832.ts
+#EXTINF:-1 tvg-id="821831" group-title="EFL Cup Event",EFL33:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821831.ts
+#EXTINF:-1 tvg-id="2659076" group-title="EFL Cup Event",EFL34:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659076.ts
+#EXTINF:-1 tvg-id="2659077" group-title="EFL Cup Event",EFL35:
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659077.ts
+#EXTINF:-1 tvg-id="174942" group-title="EPL | Hub Event",EPL | Now Sports 4K
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174942.ts
+#EXTINF:-1 tvg-id="836295" group-title="HK | Now HK PL",HK | Now HK Premier League TV
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/836295.ts
+#EXTINF:-1 tvg-id="417163" group-title="EPL | Hub Event",EPL | TNT Sports Ultimate 4K HDR
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/417163.ts
+#EXTINF:-1 tvg-id="696956" group-title="EPL | Hub Event",EPL | Astro Sports UHD 4K
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/696956.ts
+#EXTINF:-1 tvg-id="174943" group-title="EPL | Hub Event",EPL | Hub Premier 2 4K
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174943.ts
+#EXTINF:-1 tvg-id="256492" group-title="EPL | Hub Event",A.F.C BOURNEMOUTH (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256492.ts
+#EXTINF:-1 tvg-id="256488" group-title="EPL | Hub Event",ARSENAL F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256488.ts
+#EXTINF:-1 tvg-id="256489" group-title="EPL | Hub Event",ASTON VILLA F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256489.ts
+#EXTINF:-1 tvg-id="256490" group-title="EPL | Hub Event",BRENTFORD F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256490.ts
+#EXTINF:-1 tvg-id="256491" group-title="EPL | Hub Event",BRIGHTON & HOVE ALBION F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256491.ts
+#EXTINF:-1 tvg-id="256496" group-title="EPL | Hub Event",COVENTRY CITY F.C (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256496.ts
+#EXTINF:-1 tvg-id="256493" group-title="EPL | Hub Event",CHELSEA F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256493.ts
+#EXTINF:-1 tvg-id="256494" group-title="EPL | Hub Event",CRYSTAL PALACE F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256494.ts
+#EXTINF:-1 tvg-id="256495" group-title="EPL | Hub Event",EVERTON F.C (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256495.ts
+#EXTINF:-1 tvg-id="256508" group-title="EPL | Hub Event",FULHAM F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256508.ts
+#EXTINF:-1 tvg-id="256513" group-title="EPL | Hub Event",HULL CITY A.F.C (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256513.ts
+#EXTINF:-1 tvg-id="256512" group-title="EPL | Hub Event",IPSWICH TOWN F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256512.ts
+#EXTINF:-1 tvg-id="256497" group-title="EPL | Hub Event",LEEDS UNITED F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256497.ts
+#EXTINF:-1 tvg-id="256498" group-title="EPL | Hub Event",LIVERPOOL F.C (Sat 12;30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256498.ts
+#EXTINF:-1 tvg-id="256499" group-title="EPL | Hub Event",MANCHESTER CITY F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256499.ts
+#EXTINF:-1 tvg-id="256500" group-title="EPL | Hub Event",MANCHESTER UNITED F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256500.ts
+#EXTINF:-1 tvg-id="256507" group-title="EPL | Hub Event",NEWCASTLE UNITED F.C (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256507.ts
+#EXTINF:-1 tvg-id="256511" group-title="EPL | Hub Event",NOTTINGHAM FOREST F.C (Sat 12:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256511.ts
+#EXTINF:-1 tvg-id="256509" group-title="EPL | Hub Event",SUNDERLAND A.F.C (MATCH-TIME ONLY)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256509.ts
+#EXTINF:-1 tvg-id="256510" group-title="EPL | Hub Event",TOTTENHAM HOTSPUR F.C (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256510.ts
+#EXTINF:-1 tvg-id="340373" group-title="EPL Event",11. EPL 03 | Bournemouth vs Everton (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340373.ts
+#EXTINF:-1 tvg-id="340374" group-title="EPL Event",12. EPL 03 | Bournemouth vs Everton (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340374.ts
+#EXTINF:-1 tvg-id="340375" group-title="EPL Event",13. EPL 03 | Bournemouth vs Everton (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340375.ts
+#EXTINF:-1 tvg-id="340376" group-title="EPL Event",14. EPL 03 | Bournemouth vs Everton (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340376.ts
+#EXTINF:-1 tvg-id="340377" group-title="EPL Event",15. EPL 04 | Coventry City vs Hull City (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340377.ts
+#EXTINF:-1 tvg-id="340378" group-title="EPL Event",16. EPL 04 | Coventry City vs Hull City (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340378.ts
+#EXTINF:-1 tvg-id="340379" group-title="EPL Event",17. EPL 04 | Coventry City vs Hull City (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340379.ts
+#EXTINF:-1 tvg-id="340380" group-title="EPL Event",18. EPL 04 | Coventry City vs Hull City (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340380.ts
+#EXTINF:-1 tvg-id="340381" group-title="EPL Event",19. EPL 05 | Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340381.ts
+#EXTINF:-1 tvg-id="405039" group-title="EPL Event",20. EPL 05 | Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405039.ts
+#EXTINF:-1 tvg-id="405038" group-title="EPL Event",21. EPL 05 | Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405038.ts
+#EXTINF:-1 tvg-id="405037" group-title="EPL Event",22. EPL 05 | Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405037.ts
+#EXTINF:-1 tvg-id="405036" group-title="EPL Event",23. EPL 06 | Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405036.ts
+#EXTINF:-1 tvg-id="405035" group-title="EPL Event",24. EPL 06 | Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405035.ts
+#EXTINF:-1 tvg-id="405034" group-title="EPL Event",25. EPL 06 | Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405034.ts
+#EXTINF:-1 tvg-id="437930" group-title="EPL Event",26. EPL 06 | Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437930.ts
+#EXTINF:-1 tvg-id="437931" group-title="EPL Event",27. EPL 07 | Leeds United vs Brentford (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437931.ts
+#EXTINF:-1 tvg-id="437932" group-title="EPL Event",28. EPL 07 | Leeds United vs Brentford (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437932.ts
+#EXTINF:-1 tvg-id="437933" group-title="EPL Event",29. EPL 07 | Leeds United vs Brentford (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437933.ts
+#EXTINF:-1 tvg-id="437934" group-title="EPL Event",30. EPL 07 | Leeds United vs Brentford (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437934.ts
+#EXTINF:-1 tvg-id="437935" group-title="EPL Event",31. EPL 08 | Sunderland vs Fulham (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437935.ts
+#EXTINF:-1 tvg-id="437936" group-title="EPL Event",32. EPL 08 | Sunderland vs Fulham (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437936.ts
+#EXTINF:-1 tvg-id="437937" group-title="EPL Event",33. EPL 08 | Sunderland vs Fulham (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437937.ts
+#EXTINF:-1 tvg-id="437938" group-title="EPL Event",34. EPL 08 | Sunderland vs Fulham (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437938.ts
+#EXTINF:-1 tvg-id="437939" group-title="EPL Event",35. EPL 09 | Manchester United vs Ipswich Town (Sun 16:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437939.ts
+#EXTINF:-1 tvg-id="697153" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 24/7
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697153.ts
+#EXTINF:-1 tvg-id="697154" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 01: Crystal Palace vs Manchester City (Fri 20:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697154.ts
+#EXTINF:-1 tvg-id="697155" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 02: Liverpool vs Nottingham Forest (Sat 12:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697155.ts
+#EXTINF:-1 tvg-id="697156" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 03: Bournemouth vs Everton (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697156.ts
+#EXTINF:-1 tvg-id="697157" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 04: Coventry City vs Hull City (Sat 15:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697157.ts
+#EXTINF:-1 tvg-id="697158" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 05: Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697158.ts
+#EXTINF:-1 tvg-id="697159" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 06: Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697159.ts
+#EXTINF:-1 tvg-id="697160" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 07: Leeds United vs Brentford (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697160.ts
+#EXTINF:-1 tvg-id="697161" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 08: Sunderland vs Fulham (Sun 14:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697161.ts
+#EXTINF:-1 tvg-id="396308" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 09: Manchester United vs Ipswich Town (Sun 16:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/396308.ts
+#EXTINF:-1 tvg-id="945352" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 10: Aston Villa vs Arsenal (Mon 20:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/945352.ts
+#EXTINF:-1 tvg-id="952022" group-title="Hub Premier",Hub Premier 1 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952022.ts
+#EXTINF:-1 tvg-id="426734" group-title="Hub Premier",Hub Premier 1 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426734.ts
+#EXTINF:-1 tvg-id="952023" group-title="Hub Premier",Hub Premier 2 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952023.ts
+#EXTINF:-1 tvg-id="426733" group-title="Hub Premier",Hub Premier 2 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426733.ts
+#EXTINF:-1 tvg-id="952024" group-title="Hub Premier",Hub Premier 3 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952024.ts
+#EXTINF:-1 tvg-id="426732" group-title="Hub Premier",Hub Premier 3 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426732.ts
+#EXTINF:-1 tvg-id="952025" group-title="Hub Premier",Hub Premier 4 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952025.ts
+#EXTINF:-1 tvg-id="426731" group-title="Hub Premier",Hub Premier 4 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426731.ts
+#EXTINF:-1 tvg-id="952026" group-title="Hub Premier",Hub Premier 5 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952026.ts
+#EXTINF:-1 tvg-id="426730" group-title="Hub Premier",Hub Premier 5 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426730.ts
+#EXTINF:-1 tvg-id="952027" group-title="Hub Premier",Hub Premier 6 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952027.ts
+#EXTINF:-1 tvg-id="426729" group-title="Hub Premier",Hub Premier 6 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426729.ts
+#EXTINF:-1 tvg-id="952028" group-title="Hub Premier",Hub Premier 7 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952028.ts
+#EXTINF:-1 tvg-id="426728" group-title="Hub Premier",Hub Premier 7 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426728.ts
+#EXTINF:-1 tvg-id="952029" group-title="Hub Premier",Hub Premier 8 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952029.ts
+#EXTINF:-1 tvg-id="426727" group-title="Hub Premier",Hub Premier 8 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426727.ts
+#EXTINF:-1 tvg-id="952030" group-title="Hub Premier",Hub Premier 9 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952030.ts
+#EXTINF:-1 tvg-id="426726" group-title="Hub Premier",Hub Premier 9 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426726.ts
+#EXTINF:-1 tvg-id="952031" group-title="Hub Premier",Hub Premier 10 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952031.ts
+#EXTINF:-1 tvg-id="426725" group-title="Hub Premier",Hub Premier 10 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426725.ts
+#EXTINF:-1 tvg-id="952032" group-title="Hub Premier",Hub Premier 11 FHD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952032.ts
+#EXTINF:-1 tvg-id="426724" group-title="Hub Premier",Hub Premier 11 HD
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426724.ts
+#EXTINF:-1 tvg-id="426723" group-title="Hub Premier",Hub Premier 2 4K
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/426723.ts
+#EXTINF:-1 tvg-id="635412" group-title="WSL & FA Player",FA Player 01 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635412.ts
+#EXTINF:-1 tvg-id="635411" group-title="WSL & FA Player",FA Player 02  (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635411.ts
+#EXTINF:-1 tvg-id="635410" group-title="WSL & FA Player",FA Player 03  (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635410.ts
+#EXTINF:-1 tvg-id="635409" group-title="WSL & FA Player",FA Player 04  (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635409.ts
+#EXTINF:-1 tvg-id="635408" group-title="WSL & FA Player",FA Player 05 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635408.ts
+#EXTINF:-1 tvg-id="635407" group-title="WSL & FA Player",FA Player 06 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635407.ts
+#EXTINF:-1 tvg-id="635406" group-title="WSL & FA Player",FA Player 07 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635406.ts
+#EXTINF:-1 tvg-id="635405" group-title="WSL & FA Player",FA Player 08 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635405.ts
+#EXTINF:-1 tvg-id="635404" group-title="WSL & FA Player",FA Player 09 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635404.ts
+#EXTINF:-1 tvg-id="635403" group-title="WSL & FA Player",FA Player 10 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635403.ts
+#EXTINF:-1 tvg-id="635402" group-title="WSL & FA Player",FA Player 11 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635402.ts
+#EXTINF:-1 tvg-id="635401" group-title="WSL & FA Player",FA Player 12 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635401.ts
+#EXTINF:-1 tvg-id="635400" group-title="WSL & FA Player",FA Player 13 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635400.ts
+#EXTINF:-1 tvg-id="635399" group-title="WSL & FA Player",FA Player 14 (Live Events Only)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635399.ts
+#EXTINF:-1 tvg-id="174941" group-title="Footbal Live Event",01. Serie A | Fiorentina vs Frosinone (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174941.ts
+#EXTINF:-1 tvg-id="174951" group-title="Footbal Live Event",02. Serie A | Fiorentina vs Frosinone (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174951.ts
+#EXTINF:-1 tvg-id="174938" group-title="Footbal Live Event",03. Serie A | Monza vs Udinese (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174938.ts
+#EXTINF:-1 tvg-id="174939" group-title="Footbal Live Event",04. Serie A | Monza vs Udinese (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174939.ts
+#EXTINF:-1 tvg-id="174940" group-title="Footbal Live Event",05. Serie A | Sassuolo vs Torino (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174940.ts
+#EXTINF:-1 tvg-id="174949" group-title="Footbal Live Event",06. Serie A | Sassuolo vs Torino (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174949.ts
+#EXTINF:-1 tvg-id="174952" group-title="Footbal Live Event",07. Serie A | Juventus vs Parma (Sat 19:45 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174952.ts
+#EXTINF:-1 tvg-id="174950" group-title="Footbal Live Event",08. Serie A | Juventus vs Parma (Sat 19:45 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174950.ts
+#EXTINF:-1 tvg-id="174948" group-title="Footbal Live Event",09. Bundesliga | Goal Arena (Sat 14:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174948.ts
+#EXTINF:-1 tvg-id="174947" group-title="Footbal Live Event",10. Bundesliga | Elversberg vs Leverkusen (Sat 14:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174947.ts
+#EXTINF:-1 tvg-id="174946" group-title="Footbal Live Event",11. Bundesliga | Elversberg vs Leverkusen (Sat 14:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174946.ts
+#EXTINF:-1 tvg-id="174945" group-title="Footbal Live Event",12. Bundesliga | Koln vs Hoffenheim (Sat 14:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174945.ts
+#EXTINF:-1 tvg-id="174944" group-title="Footbal Live Event",13. Bundesliga | Mainz vs Paderborn (Sat 14:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174944.ts
+#EXTINF:-1 tvg-id="233895" group-title="Footbal Live Event",14. Bundesliga | RB Leipzig vs Mgladbach (Sat 14:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233895.ts
+#EXTINF:-1 tvg-id="233896" group-title="Footbal Live Event",15. Bundesliga | Union Berlin vs Frankfurt (Sat 14:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233896.ts
+#EXTINF:-1 tvg-id="233897" group-title="Footbal Live Event",16. Bundesliga | Dortmund vs Hamburg (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233897.ts
+#EXTINF:-1 tvg-id="233898" group-title="Footbal Live Event",17. Bundesliga | Dortmund vs Hamburg (Sat 17:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233898.ts
+#EXTINF:-1 tvg-id="233899" group-title="Footbal Live Event",18. Eredivisie | AZ vs Go Ahead Eagels (Sat 17:45 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233899.ts
+#EXTINF:-1 tvg-id="233900" group-title="Footbal Live Event",19. Super Lig | Galatasaray vs Goztepe (Sat 19:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233900.ts
+#EXTINF:-1 tvg-id="233901" group-title="Footbal Live Event",20. Liga Portugal | Academico v Porto (Sat 18:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233901.ts
+#EXTINF:-1 tvg-id="233902" group-title="Footbal Live Event",21. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233902.ts
+#EXTINF:-1 tvg-id="233903" group-title="Footbal Live Event",22. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233903.ts
+#EXTINF:-1 tvg-id="233906" group-title="Footbal Live Event",23. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233906.ts
+#EXTINF:-1 tvg-id="233904" group-title="Footbal Live Event",24. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233904.ts
+#EXTINF:-1 tvg-id="233905" group-title="Footbal Live Event",25. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/233905.ts
+#EXTINF:-1 tvg-id="255948" group-title="Footbal Live Event",26. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/255948.ts
+#EXTINF:-1 tvg-id="286958" group-title="Footbal Live Event",27. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/286958.ts
+#EXTINF:-1 tvg-id="286959" group-title="Footbal Live Event",28. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/286959.ts
+#EXTINF:-1 tvg-id="697714" group-title="Footbal Live Event",29. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697714.ts
+#EXTINF:-1 tvg-id="697713" group-title="Footbal Live Event",30. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697713.ts
+#EXTINF:-1 tvg-id="697712" group-title="Footbal Live Event",31. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697712.ts
+#EXTINF:-1 tvg-id="697710" group-title="Footbal Live Event",32. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697710.ts
+#EXTINF:-1 tvg-id="286957" group-title="Footbal Live Event",33. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/286957.ts
+#EXTINF:-1 tvg-id="697711" group-title="Footbal Live Event",34. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697711.ts
+#EXTINF:-1 tvg-id="286956" group-title="Footbal Live Event",35. Football | No Event
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/286956.ts
+#EXTINF:-1 tvg-id="713927" group-title="EPL Event",36. EPL 09 | Manchester United vs Ipswich Town (Sun 16:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713927.ts
+#EXTINF:-1 tvg-id="713926" group-title="EPL Event",37. EPL 09 | Manchester United vs Ipswich Town (Sun 16:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713926.ts
+#EXTINF:-1 tvg-id="713925" group-title="EPL Event",38. EPL 09 | Manchester United vs Ipswich Town (Sun 16:30 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713925.ts
+#EXTINF:-1 tvg-id="713924" group-title="EPL Event",39. EPL 10 | Aston Villa vs Arsenal (Mon 20:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713924.ts
+#EXTINF:-1 tvg-id="713822" group-title="EPL Event",40. EPL 10 | Aston Villa vs Arsenal (Mon 20:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713822.ts
+#EXTINF:-1 tvg-id="713928" group-title="EPL Event",41. EPL 10 | Aston Villa vs Arsenal (Mon 20:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713928.ts
+#EXTINF:-1 tvg-id="713929" group-title="EPL Event",42. EPL 10 | Aston Villa vs Arsenal (Mon 20:00 UK)
+http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713929.ts
