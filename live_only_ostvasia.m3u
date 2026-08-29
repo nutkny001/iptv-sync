@@ -1,1 +1,23 @@
 #EXTM3U url-tvg="http://ostvasia.xyz:80/xmltv.php?username=tipu270219&password=dwhtKk6Ya"
+#EXTINF:-1 tvg-id="697153" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 24/7
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697153.ts
+#EXTINF:-1 tvg-id="697154" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 01: Crystal Palace vs Manchester City (Fri 20:00 UK)
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697154.ts
+#EXTINF:-1 tvg-id="697155" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 02: Liverpool vs Nottingham Forest (Sat 12:30 UK)
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697155.ts
+#EXTINF:-1 tvg-id="697156" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 03: Bournemouth vs Everton (Sat 15:00 UK)
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697156.ts
+#EXTINF:-1 tvg-id="697157" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 04: Coventry City vs Hull City (Sat 15:00 UK)
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697157.ts
+#EXTINF:-1 tvg-id="697158" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 05: Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697158.ts
+#EXTINF:-1 tvg-id="697159" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 06: Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697159.ts
+#EXTINF:-1 tvg-id="697160" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 07: Leeds United vs Brentford (Sun 14:00 UK)
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697160.ts
+#EXTINF:-1 tvg-id="697161" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 08: Sunderland vs Fulham (Sun 14:00 UK)
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/697161.ts
+#EXTINF:-1 tvg-id="396308" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 09: Manchester United vs Ipswich Town (Sun 16:30 UK)
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/396308.ts
+#EXTINF:-1 tvg-id="945352" group-title="LIVE | MonoMax (EPL)", TH | MonoMax PL 10: Aston Villa vs Arsenal (Mon 20:00 UK)
+http://ostvasia.xyz:80/live/tipu270219/dwhtKk6Ya/945352.ts
