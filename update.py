@@ -1,13 +1,12 @@
-os
+import os
 import json
 import requests
 from datetime import datetime
 
-# ดึงค่าจาก GitHub Secrets (พร้อมกำหนดค่าสำรองป้องกันพาร์ส URL พลาด)
+# ดึงค่าจาก GitHub Secrets
 HOST = os.getenv("API_HOST", "http://ostvasia.xyz").strip()
 if not HOST.startswith("http"):
     HOST = f"http://{HOST}"
-# ตัด / ท้าย URL ออกถ้ามี เพื่อป้องกัน URL ซ้อนกัน
 HOST = HOST.rstrip("/")
 
 USERNAME = os.getenv("API_USERNAME", "").strip()
@@ -35,22 +34,20 @@ headers = {
 
 def get_live_via_api():
     if not USERNAME or not PASSWORD:
-        print("[-] ไม่พบ Username หรือ Password กรุณาตรวจสอบการตั้งค่า Secrets")
+        print("[-] ไม่พบ Username หรือ Password ใน Secrets")
         return
 
     print("[1] กำลังยืนยันตัวตนผ่าน Xtream Codes API...")
     auth_url = f"{HOST}/player_api.php?username={USERNAME}&password={PASSWORD}"
-    print(f"[i] เชื่อมต่อ Host: {HOST}")
 
     try:
         res = requests.get(auth_url, headers=headers, timeout=30)
         user_info = res.json()
 
         if user_info.get("user_info", {}).get("auth") != 1:
-            print("[-] ยืนยันตัวตนไม่สำเร็จ (Username หรือ Password อาจจะไม่ถูกต้อง)")
+            print("[-] ยืนยันตัวตนไม่สำเร็จ")
             return
 
-        # แปลงวันหมดอายุให้อยู่ในรูปแบบ DD-MM-YYYY
         exp_timestamp = user_info.get("user_info", {}).get("exp_date")
         if exp_timestamp and str(exp_timestamp).isdigit():
             dt = datetime.fromtimestamp(int(exp_timestamp))
@@ -58,7 +55,6 @@ def get_live_via_api():
         else:
             exp_date_str = "Unlimited"
 
-        # ดึงเวลาปัจจุบันที่สคริปต์กำลังรัน
         now_str = datetime.now().strftime('%d-%m-%Y %H:%M')
 
         print(f"[i] วันหมดอายุ: {exp_date_str}")
@@ -70,7 +66,7 @@ def get_live_via_api():
         live_data = live_res.json()
 
         if not isinstance(live_data, list):
-            print("[-] ไม่พบข้อมูลช่อง หรือโครงสร้างข้อมูลผิดพลาด")
+            print("[-] ไม่พบข้อมูลช่อง")
             return
 
         epg_url = f"{HOST}/xmltv.php?username={USERNAME}&password={PASSWORD}"
@@ -78,17 +74,13 @@ def get_live_via_api():
 
         with open(OUTPUT_LIVE_M3U, "w", encoding="utf-8") as f:
             f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
-
-            # เพิ่มแถวแจ้งเตือนวันหมดอายุและเวลาอัปเดตล่าสุดไว้ด้านบนสุด
             f.write(f'#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",⚠️ 🔴 บัญชีหมดอายุ: {exp_date_str} 🔴\n')
             f.write('http://clients.link/expired\n')
-            
             f.write(f'#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: {now_str} 🟢\n')
             f.write('http://clients.link/updated\n')
 
             for item in live_data:
                 cat_id = str(item.get("category_id", ""))
-                
                 if cat_id in CATEGORY_MAPPING:
                     name = item.get("name", "Unknown")
                     stream_id = item.get("stream_id")
@@ -103,7 +95,7 @@ def get_live_via_api():
         print(f"[✔] บันทึกสำเร็จ {count} ช่อง")
 
     except Exception as e:
-        print(f"[-] เกิดข้อผิดพลาดระหว่างดึงข้อมูล: {e}")
+        print(f"[-] เกิดข้อผิดพลาด: {e}")
 
 if __name__ == "__main__":
     get_live_via_api()
