@@ -1,8 +1,9 @@
 import os
 import json
 import requests
+from datetime import datetime
 
-# ดึงค่าจาก GitHub Secrets ที่ส่งเข้ามาตอนรันงาน
+# ดึงค่าจาก GitHub Secrets
 HOST = os.getenv("API_HOST", "http://ostvasia.xyz:80")
 USERNAME = os.getenv("API_USERNAME", "")
 PASSWORD = os.getenv("API_PASSWORD", "")
@@ -45,6 +46,20 @@ def get_live_via_api():
             print("[-] ยืนยันตัวตนไม่สำเร็จ")
             return
 
+        # แปลงวันหมดอายุให้อยู่ในรูปแบบ DD-MM-YYYY
+        exp_timestamp = user_info.get("user_info", {}).get("exp_date")
+        if exp_timestamp and str(exp_timestamp).isdigit():
+            dt = datetime.fromtimestamp(int(exp_timestamp))
+            exp_date_str = dt.strftime('%d-%m-%Y')
+        else:
+            exp_date_str = "Unlimited"
+
+        # ดึงเวลาปัจจุบันที่สคริปต์กำลังรัน (อ้างอิงเวลาจริง)
+        now_str = datetime.now().strftime('%d-%m-%Y %H:%M')
+
+        print(f"[i] วันหมดอายุ: {exp_date_str}")
+        print(f"[i] อัปเดตล่าสุดเมื่อ: {now_str}")
+
         print("[2] กำลังดึงช่องสด...")
         live_url = f"{HOST}/player_api.php?username={USERNAME}&password={PASSWORD}&action=get_live_streams"
         live_res = requests.get(live_url, headers=headers, timeout=60)
@@ -59,6 +74,13 @@ def get_live_via_api():
 
         with open(OUTPUT_LIVE_M3U, "w", encoding="utf-8") as f:
             f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
+
+            # เพิ่มช่องแจ้งเตือนวันหมดอายุและเวลาอัปเดตล่าสุดไว้ด้านบนสุด
+            f.write(f'#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",⚠️ 🔴 บัญชีหมดอายุ: {exp_date_str} 🔴\n')
+            f.write('http://clients.link/expired\n')
+            
+            f.write(f'#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: {now_str} 🟢\n')
+            f.write('http://clients.link/updated\n')
 
             for item in live_data:
                 cat_id = str(item.get("category_id", ""))
