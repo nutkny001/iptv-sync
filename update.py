@@ -6,6 +6,7 @@ USERNAME = "tipu270219"
 PASSWORD = "dwhtKk6Ya"
 OUTPUT_LIVE_M3U = "live_only_ostvasia.m3u"
 
+# กำหนด Category ID ที่ต้องการดึง
 TARGET_CATEGORY_IDS = ["1624"] 
 
 headers = {
@@ -24,18 +25,6 @@ def get_live_via_api():
             print("[-] ยืนยันตัวตนไม่สำเร็จ")
             return
 
-        # ดึงรายชื่อหมวดหมู่ทั้งหมดเพื่อแปลง ID เป็น "ชื่อหมวดหมู่"
-        print("[*] กำลังดึงชื่อหมวดหมู่...")
-        cat_url = f"{HOST}/player_api.php?username={USERNAME}&password={PASSWORD}&action=get_live_categories"
-        cat_res = requests.get(cat_url, headers=headers, timeout=30)
-        cat_data = cat_res.json()
-        
-        category_map = {}
-        if isinstance(cat_data, list):
-            for cat in cat_data:
-                category_map[str(cat.get("category_id"))] = cat.get("category_name", "Sports")
-
-        # ดึงรายชื่อช่อง
         print("[2] กำลังดึงช่องสด...")
         live_url = f"{HOST}/player_api.php?username={USERNAME}&password={PASSWORD}&action=get_live_streams"
         live_res = requests.get(live_url, headers=headers, timeout=60)
@@ -58,8 +47,9 @@ def get_live_via_api():
                     name = item.get("name", "Unknown")
                     stream_id = item.get("stream_id")
                     
-                    # ดึงชื่อหมวดหมู่ที่เป็นตัวหนังสือมาใส่ group-title
-                    group_title = category_map.get(cat_id, "LIVE | MonoMax")
+                    # ตั้งชื่อ Group ตรงนี้ตายตัว เพื่อให้แอป IPTV จัดหมวดหมู่ทันที
+                    group_title = "LIVE | MonoMax (EPL)"
+                    
                     container_extension = item.get("container_extension", "ts")
                     stream_url = f"{HOST}/live/{USERNAME}/{PASSWORD}/{stream_id}.{container_extension}"
 
