@@ -37,27 +37,29 @@ def get_live_via_api():
             print("[-] ไม่พบรายการช่องสดจาก API")
             return
 
-        print(f"[+] พบช่องสดทั้งหมด {len(live_data)} ช่อง!")
-
-        print(f"[3] กำลังสร้างไฟล์ {OUTPUT_LIVE_M3U}...")
+        print(f"[+] ค้นพบช่องทั้งหมด {len(live_data)} ช่อง กำลังกรองเฉพาะ 'LIVE | MonoMax (EPL)'...")
         epg_url = f"{HOST}/xmltv.php?username={USERNAME}&password={PASSWORD}"
 
+        filtered_count = 0
         with open(OUTPUT_LIVE_M3U, "w", encoding="utf-8") as f:
-            # ใส่เฉพาะลิงก์ EPG เริ่มต้นโดยไม่เอาหัวข้อ SYSTEM
             f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
 
             for item in live_data:
-                name = item.get("name", "Unknown")
-                stream_id = item.get("stream_id")
-                category_id = item.get("category_id", "")
-                container_extension = item.get("container_extension", "ts")
+                name = item.get("name", "").strip()
+                
+                # กรองเฉพาะชื่อที่ตรงกับ "LIVE | MonoMax (EPL)" เป๊ะๆ
+                if name == "LIVE | MonoMax (EPL)":
+                    stream_id = item.get("stream_id")
+                    category_id = item.get("category_id", "")
+                    container_extension = item.get("container_extension", "ts")
 
-                stream_url = f"{HOST}/live/{USERNAME}/{PASSWORD}/{stream_id}.{container_extension}"
+                    stream_url = f"{HOST}/live/{USERNAME}/{PASSWORD}/{stream_id}.{container_extension}"
 
-                f.write(f'#EXTINF:-1 tvg-id="{stream_id}" group-title="{category_id}", {name}\n')
-                f.write(f"{stream_url}\n")
+                    f.write(f'#EXTINF:-1 tvg-id="{stream_id}" group-title="{category_id}", {name}\n')
+                    f.write(f"{stream_url}\n")
+                    filtered_count += 1
 
-        print(f"[✔] บันทึกไฟล์สำเร็จ: {OUTPUT_LIVE_M3U}")
+        print(f"[✔] บันทึกสำเร็จ เฉพาะช่องที่ตรงกันจำนวน {filtered_count} ช่อง")
 
     except Exception as e:
         print(f"[-] เกิดข้อผิดพลาด: {e}")
