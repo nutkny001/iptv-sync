@@ -2,8 +2,8 @@ name: Auto Update M3U
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # สั่งให้รันทุกๆ 6 ชั่วโมง
-  workflow_dispatch: # ให้กดรันมือเองได้ด้วย
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-m3u:
@@ -24,6 +24,9 @@ jobs:
 
       - name: Run script
         run: python update.py
+
+      - name: Check generated files
+        run: ls -la
 
       - name: Commit and push if changed
         run: |
