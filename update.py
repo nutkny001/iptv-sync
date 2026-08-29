@@ -6,7 +6,22 @@ USERNAME = "tipu270219"
 PASSWORD = "dwhtKk6Ya"
 OUTPUT_LIVE_M3U = "live_only_ostvasia.m3u"
 
-TARGET_CATEGORY_IDS = ["1624"] 
+# กำหนดชื่อกลุ่มและรหัสหมวดหมู่ตามที่คุณต้องการ
+CATEGORY_MAPPING = {
+    "1624": "TH | MonoMax PL EVENT",
+    "7050": "EPL Event",
+    "1566": "EPL | Hub Event",
+    "1524": "Footbal Live Event",
+    "7527": "PL+ | Premier League Event",
+    "7528": "HK | Now HK PL",
+    "1629": "Hub Premier",
+    "7075": "EFL Cup Event",
+    "7080": "La Liga Event",
+    "7083": "Ligue 1 Pass",
+    "6027": "WSL & FA Player"
+}
+
+TARGET_CATEGORY_IDS = list(CATEGORY_MAPPING.keys())
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -45,11 +60,13 @@ def get_live_via_api():
                 if cat_id in TARGET_CATEGORY_IDS:
                     name = item.get("name", "Unknown")
                     stream_id = item.get("stream_id")
-                    group_title = "LIVE | MonoMax (EPL)"
+                    
+                    # ดึงชื่อกลุ่มจาก Mapping ที่ตั้งไว้
+                    group_title = CATEGORY_MAPPING.get(cat_id, "LIVE | Streams")
+                    
                     container_extension = item.get("container_extension", "ts")
                     stream_url = f"{HOST}/live/{USERNAME}/{PASSWORD}/{stream_id}.{container_extension}"
 
-                    # จัดรูปแบบ syntax M3U ให้ถูกต้องตามมาตรฐานแอป IPTV
                     f.write(f'#EXTINF:-1 tvg-id="{stream_id}" group-title="{group_title}",{name}\n')
                     f.write(f"{stream_url}\n")
                     count += 1
