@@ -24,6 +24,10 @@ jobs:
 
       - name: Run script
         run: python update.py
+        env:
+          API_HOST: ${{ secrets.API_HOST }}
+          API_USERNAME: ${{ secrets.API_USERNAME }}
+          API_PASSWORD: ${{ secrets.API_PASSWORD }}
 
       - name: Check generated files
         run: ls -la
