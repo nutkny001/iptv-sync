@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://ostvasia.xyz/xmltv.php?username=tipu270219&password=dwhtKk6Ya"
 #EXTINF:-1 group-title="ℹ️ SYSTEM INFO",⚠️ 🔴 บัญชีหมดอายุ: 19-02-2027 🔴
 http://clients.link/expired
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 30-08-2026 04:07 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 30-08-2026 10:25 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="2659492" group-title="HK | Now HK PL",HK | Now HK PL 1 FHD
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659492.ts
@@ -287,7 +287,7 @@ http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/417163.ts
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/696956.ts
 #EXTINF:-1 tvg-id="174943" group-title="EPL | Hub Event",EPL | Hub Premier 2 4K
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174943.ts
-#EXTINF:-1 tvg-id="256492" group-title="EPL | Hub Event",A.F.C BOURNEMOUTH (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="256492" group-title="EPL | Hub Event",A.F.C BOURNEMOUTH (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256492.ts
 #EXTINF:-1 tvg-id="256488" group-title="EPL | Hub Event",ARSENAL F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256488.ts
@@ -297,35 +297,35 @@ http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256489.ts
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256490.ts
 #EXTINF:-1 tvg-id="256491" group-title="EPL | Hub Event",BRIGHTON & HOVE ALBION F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256491.ts
-#EXTINF:-1 tvg-id="256496" group-title="EPL | Hub Event",COVENTRY CITY F.C (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="256496" group-title="EPL | Hub Event",COVENTRY CITY F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256496.ts
 #EXTINF:-1 tvg-id="256493" group-title="EPL | Hub Event",CHELSEA F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256493.ts
 #EXTINF:-1 tvg-id="256494" group-title="EPL | Hub Event",CRYSTAL PALACE F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256494.ts
-#EXTINF:-1 tvg-id="256495" group-title="EPL | Hub Event",EVERTON F.C (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="256495" group-title="EPL | Hub Event",EVERTON F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256495.ts
 #EXTINF:-1 tvg-id="256508" group-title="EPL | Hub Event",FULHAM F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256508.ts
-#EXTINF:-1 tvg-id="256513" group-title="EPL | Hub Event",HULL CITY A.F.C (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="256513" group-title="EPL | Hub Event",HULL CITY A.F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256513.ts
 #EXTINF:-1 tvg-id="256512" group-title="EPL | Hub Event",IPSWICH TOWN F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256512.ts
 #EXTINF:-1 tvg-id="256497" group-title="EPL | Hub Event",LEEDS UNITED F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256497.ts
-#EXTINF:-1 tvg-id="256498" group-title="EPL | Hub Event",LIVERPOOL F.C (Sat 12;30 UK)
+#EXTINF:-1 tvg-id="256498" group-title="EPL | Hub Event",LIVERPOOL F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256498.ts
 #EXTINF:-1 tvg-id="256499" group-title="EPL | Hub Event",MANCHESTER CITY F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256499.ts
 #EXTINF:-1 tvg-id="256500" group-title="EPL | Hub Event",MANCHESTER UNITED F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256500.ts
-#EXTINF:-1 tvg-id="256507" group-title="EPL | Hub Event",NEWCASTLE UNITED F.C (Sat 17:30 UK)
+#EXTINF:-1 tvg-id="256507" group-title="EPL | Hub Event",NEWCASTLE UNITED F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256507.ts
-#EXTINF:-1 tvg-id="256511" group-title="EPL | Hub Event",NOTTINGHAM FOREST F.C (Sat 12:30 UK)
+#EXTINF:-1 tvg-id="256511" group-title="EPL | Hub Event",NOTTINGHAM FOREST F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256511.ts
 #EXTINF:-1 tvg-id="256509" group-title="EPL | Hub Event",SUNDERLAND A.F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256509.ts
-#EXTINF:-1 tvg-id="256510" group-title="EPL | Hub Event",TOTTENHAM HOTSPUR F.C (Sat 17:30 UK)
+#EXTINF:-1 tvg-id="256510" group-title="EPL | Hub Event",TOTTENHAM HOTSPUR F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256510.ts
 #EXTINF:-1 tvg-id="340373" group-title="EPL Event",11. EPL 03 | Bournemouth vs Everton (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340373.ts
