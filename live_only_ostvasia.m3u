@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://ostvasia.xyz/xmltv.php?username=tipu270219&password=dwhtKk6Ya"
 #EXTINF:-1 group-title="ℹ️ SYSTEM INFO",⚠️ 🔴 บัญชีหมดอายุ: 19-02-2027 🔴
 http://clients.link/expired
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 30-08-2026 18:10 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 30-08-2026 22:58 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="2659492" group-title="HK | Now HK PL",HK | Now HK PL 1 FHD
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659492.ts
