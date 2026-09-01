@@ -76,8 +76,6 @@ def get_live_via_api():
 
         with open(OUTPUT_LIVE_M3U, "w", encoding="utf-8") as f:
             f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
-            f.write(f'#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",⚠️ 🔴 บัญชีหมดอายุ: {exp_date_str} 🔴\n')
-            f.write('http://clients.link/expired\n')
             f.write(f'#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: {now_str} 🟢\n')
             f.write('http://clients.link/updated\n')
 
