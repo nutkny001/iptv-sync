@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://ostvasia.xyz/xmltv.php?username=tipu270219&password=dwhtKk6Ya"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 02-09-2026 17:33 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 02-09-2026 22:54 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="2659492" group-title="HK | Now HK PL",HK | Now HK PL 1 FHD
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659492.ts
@@ -471,19 +471,19 @@ http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635401.ts
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635400.ts
 #EXTINF:-1 tvg-id="635399" group-title="WSL & FA Player",FA Player 14 (Live Events Only)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635399.ts
-#EXTINF:-1 tvg-id="174941" group-title="Footbal Live Event",01. Coppa Italia | Parma vs Cremonese (Tue 17:00 UK)
+#EXTINF:-1 tvg-id="174941" group-title="Footbal Live Event",01. Coppa Italia | Sassuolo vs Frosinone (Wed 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174941.ts
-#EXTINF:-1 tvg-id="174951" group-title="Footbal Live Event",02. Coppa Italia | Parma vs Cremonese (Tue 17:00 UK)
+#EXTINF:-1 tvg-id="174951" group-title="Footbal Live Event",02. Coppa Italia | Sassuolo vs Frosinone (Wed 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174951.ts
-#EXTINF:-1 tvg-id="174938" group-title="Footbal Live Event",03. Serie A | Torino vs Monza (Tue 20:00 UK)
+#EXTINF:-1 tvg-id="174938" group-title="Footbal Live Event",03. Serie A | Udinese vs Venezia (Wed 17:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174938.ts
-#EXTINF:-1 tvg-id="174939" group-title="Footbal Live Event",04. Serie A | Torino vs Monza (Tue 20:00 UK)
+#EXTINF:-1 tvg-id="174939" group-title="Footbal Live Event",04. Serie A | Udinese vs Venezia (Wed 17:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174939.ts
-#EXTINF:-1 tvg-id="174940" group-title="Footbal Live Event",05. DFB-Pokal | HEBC vs Dortmund (Tue 19:45 UK)
+#EXTINF:-1 tvg-id="174940" group-title="Footbal Live Event",05. DFB-Pokal | Osnabruck vs Bayern Munich (Wed 19:45 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174940.ts
-#EXTINF:-1 tvg-id="174949" group-title="Footbal Live Event",06. DFB-Pokal | HEBC vs Dortmund (Tue 19:45 UK)
+#EXTINF:-1 tvg-id="174949" group-title="Footbal Live Event",06. DFB-Pokal | Osnabruck vs Bayern Munich (Wed 19:45 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174949.ts
-#EXTINF:-1 tvg-id="174952" group-title="Footbal Live Event",07. Football | No Event
+#EXTINF:-1 tvg-id="174952" group-title="Footbal Live Event",07. DFB-Pokal | Osnabruck vs Bayern Munich (Wed 19:45 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174952.ts
 #EXTINF:-1 tvg-id="174950" group-title="Footbal Live Event",08. Football | No Event
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174950.ts
