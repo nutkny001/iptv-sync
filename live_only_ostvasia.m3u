@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://ostvasia.xyz/xmltv.php?username=tipu270219&password=dwhtKk6Ya"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 03-09-2026 17:37 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 03-09-2026 22:43 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="2659492" group-title="HK | Now HK PL",HK | Now HK PL 1 FHD
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2659492.ts
@@ -101,23 +101,23 @@ http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/2658906.ts
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/849529.ts
 #EXTINF:-1 tvg-id="848958" group-title="EPL | Hub Event",EPL | Stan 4K UHD
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/848958.ts
-#EXTINF:-1 tvg-id="839012" group-title="Ligue 1 Pass",L1 Pass 01 | Lille vs PSG (Fri 19:45 UK)
+#EXTINF:-1 tvg-id="839012" group-title="Ligue 1 Pass",L1 Pass 01 | Toulouse vs Lille (Thu 19:45 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839012.ts
-#EXTINF:-1 tvg-id="839011" group-title="Ligue 1 Pass",L1 Pass 02 | Strasbourg vs Lens (Sat 16:15 UK)
+#EXTINF:-1 tvg-id="839011" group-title="Ligue 1 Pass",L1 Pass 02 | Lyon vs Auxerre (Fri 16:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839011.ts
-#EXTINF:-1 tvg-id="839010" group-title="Ligue 1 Pass",L1 Pass 03 | Auxerre vs Angers (Sat 19:45 UK)
+#EXTINF:-1 tvg-id="839010" group-title="Ligue 1 Pass",L1 Pass 03 | PSG vs Monaco (Fri 20:05 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839010.ts
-#EXTINF:-1 tvg-id="839009" group-title="Ligue 1 Pass",L1 Pass 04 | Brest vs Toulouse (Sat 19:45 UK)
+#EXTINF:-1 tvg-id="839009" group-title="Ligue 1 Pass",L1 Pass 04 | Lens vs Lorient (Sat 16:15 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839009.ts
-#EXTINF:-1 tvg-id="839008" group-title="Ligue 1 Pass",L1 Pass 05 | Lyon vs Le Havre (Sat 19:45 UK)
+#EXTINF:-1 tvg-id="839008" group-title="Ligue 1 Pass",L1 Pass 05 | Nice vs Le Mans (Sat 19:45 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839008.ts
-#EXTINF:-1 tvg-id="839007" group-title="Ligue 1 Pass",L1 Pass 06 | Lorient vs Troyes (Sat 19:45 UK)
+#EXTINF:-1 tvg-id="839007" group-title="Ligue 1 Pass",L1 Pass 06 | Le Havre vs Brest (Sat 19:45 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839007.ts
-#EXTINF:-1 tvg-id="839006" group-title="Ligue 1 Pass",L1 Pass 07 | Paris FC vs Nice (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="839006" group-title="Ligue 1 Pass",L1 Pass 07 | Troyes vs Strasbourg (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839006.ts
-#EXTINF:-1 tvg-id="839005" group-title="Ligue 1 Pass",L1 Pass 08 | Rennes vs Le Mans (Sun 16:15 UK)
+#EXTINF:-1 tvg-id="839005" group-title="Ligue 1 Pass",L1 Pass 08 | Angers vs Rennes (Sun 16:15 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839005.ts
-#EXTINF:-1 tvg-id="839004" group-title="Ligue 1 Pass",L1 Pass 09 | Monaco vs Marseille (Sun 19:45 UK)
+#EXTINF:-1 tvg-id="839004" group-title="Ligue 1 Pass",L1 Pass 09 | Marseille vs Paris FC (Sun 19:45 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/839004.ts
 #EXTINF:-1 tvg-id="838673" group-title="WSL & FA Player",WSL 01 | No Event
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/838673.ts
@@ -153,7 +153,7 @@ http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837872.ts
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837871.ts
 #EXTINF:-1 tvg-id="837870" group-title="La Liga Event",FC BARCELONA (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837870.ts
-#EXTINF:-1 tvg-id="837869" group-title="La Liga Event",RC CELTA DE VIGO (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="837869" group-title="La Liga Event",RC CELTA DE VIGO (Fri 20:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837869.ts
 #EXTINF:-1 tvg-id="837866" group-title="La Liga Event",RC DEPORTIVO (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837866.ts
@@ -177,7 +177,7 @@ http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837860.ts
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837859.ts
 #EXTINF:-1 tvg-id="837858" group-title="La Liga Event",REAL MADRID CF (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837858.ts
-#EXTINF:-1 tvg-id="837856" group-title="La Liga Event",REAL SOCIEDAD (MATCH-TIME ONLY)
+#EXTINF:-1 tvg-id="837856" group-title="La Liga Event",REAL SOCIEDAD (Fri 20:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837856.ts
 #EXTINF:-1 tvg-id="837855" group-title="La Liga Event",SEVILLA FC (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837855.ts
@@ -185,25 +185,25 @@ http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837855.ts
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837854.ts
 #EXTINF:-1 tvg-id="837852" group-title="La Liga Event",VILLARREAL CF (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/837852.ts
-#EXTINF:-1 tvg-id="713930" group-title="EPL Event",01. EPL | Goal Rush Match Day # 1 (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="713930" group-title="EPL Event",01. EPL | Goal Rush Match Day # 3 (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713930.ts
-#EXTINF:-1 tvg-id="713931" group-title="EPL Event",02. EPL | Goal Rush Match Day # 1 (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="713931" group-title="EPL Event",02. EPL | Goal Rush Match Day # 3 (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713931.ts
-#EXTINF:-1 tvg-id="773560" group-title="EPL Event",03. EPL 01 | Crystal Palace vs Manchester City (Fri 20:00 UK)
+#EXTINF:-1 tvg-id="773560" group-title="EPL Event",03. EPL 01 | Ipswich Town vs Liverpool (Fri 20:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773560.ts
-#EXTINF:-1 tvg-id="773561" group-title="EPL Event",04. EPL 01 | Crystal Palace vs Manchester City (Fri 20:00 UK)
+#EXTINF:-1 tvg-id="773561" group-title="EPL Event",04. EPL 01 | Ipswich Town vs Liverpool (Fri 20:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773561.ts
-#EXTINF:-1 tvg-id="773562" group-title="EPL Event",05. EPL 01 | Crystal Palace vs Manchester City (Fri 20:00 UK)
+#EXTINF:-1 tvg-id="773562" group-title="EPL Event",05. EPL 01 | Ipswich Town vs Liverpool (Fri 20:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773562.ts
-#EXTINF:-1 tvg-id="773564" group-title="EPL Event",06. EPL 01 | Crystal Palace vs Manchester City (Fri 20:00 UK)
+#EXTINF:-1 tvg-id="773564" group-title="EPL Event",06. EPL 01 | Ipswich Town vs Liverpool (Fri 20:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773564.ts
-#EXTINF:-1 tvg-id="773565" group-title="EPL Event",07. EPL 02 | Liverpool vs Nottingham Forest (Sat 12:30 UK)
+#EXTINF:-1 tvg-id="773565" group-title="EPL Event",07. EPL 02 | Newcastle United vs Bournemouth (Sat 12:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773565.ts
-#EXTINF:-1 tvg-id="773567" group-title="EPL Event",08. EPL 02 | Liverpool vs Nottingham Forest (Sat 12:30 UK)
+#EXTINF:-1 tvg-id="773567" group-title="EPL Event",08. EPL 02 | Newcastle United vs Bournemouth (Sat 12:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773567.ts
-#EXTINF:-1 tvg-id="773568" group-title="EPL Event",09. EPL 02 | Liverpool vs Nottingham Forest (Sat 12:30 UK)
+#EXTINF:-1 tvg-id="773568" group-title="EPL Event",09. EPL 02 | Newcastle United vs Bournemouth (Sat 12:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773568.ts
-#EXTINF:-1 tvg-id="773569" group-title="EPL Event",10. EPL 02 | Liverpool vs Nottingham Forest (Sat 12:30 UK)
+#EXTINF:-1 tvg-id="773569" group-title="EPL Event",10. EPL 02 | Newcastle United vs Bournemouth (Sat 12:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/773569.ts
 #EXTINF:-1 tvg-id="821863" group-title="EFL Cup Event",EFL01:
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/821863.ts
@@ -325,77 +325,77 @@ http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256511.ts
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256509.ts
 #EXTINF:-1 tvg-id="256510" group-title="EPL | Hub Event",TOTTENHAM HOTSPUR F.C (MATCH-TIME ONLY)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/256510.ts
-#EXTINF:-1 tvg-id="340373" group-title="EPL Event",11. EPL 03 | Bournemouth vs Everton (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="340373" group-title="EPL Event",11. EPL 03 | Brentford vs Sunderland (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340373.ts
-#EXTINF:-1 tvg-id="340374" group-title="EPL Event",12. EPL 03 | Bournemouth vs Everton (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="340374" group-title="EPL Event",12. EPL 03 | Brentford vs Sunderland (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340374.ts
-#EXTINF:-1 tvg-id="340375" group-title="EPL Event",13. EPL 03 | Bournemouth vs Everton (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="340375" group-title="EPL Event",13. EPL 03 | Brentford vs Sunderland (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340375.ts
-#EXTINF:-1 tvg-id="340376" group-title="EPL Event",14. EPL 03 | Bournemouth vs Everton (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="340376" group-title="EPL Event",14. EPL 03 | Brentford vs Sunderland (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340376.ts
-#EXTINF:-1 tvg-id="340377" group-title="EPL Event",15. EPL 04 | Coventry City vs Hull City (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="340377" group-title="EPL Event",15. EPL 04 | Brighton vs Leeds United (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340377.ts
-#EXTINF:-1 tvg-id="340378" group-title="EPL Event",16. EPL 04 | Coventry City vs Hull City (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="340378" group-title="EPL Event",16. EPL 04 | Brighton vs Leeds United (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340378.ts
-#EXTINF:-1 tvg-id="340379" group-title="EPL Event",17. EPL 04 | Coventry City vs Hull City (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="340379" group-title="EPL Event",17. EPL 04 | Brighton vs Leeds United (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340379.ts
-#EXTINF:-1 tvg-id="340380" group-title="EPL Event",18. EPL 04 | Coventry City vs Hull City (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="340380" group-title="EPL Event",18. EPL 04 | Brighton vs Leeds United (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340380.ts
-#EXTINF:-1 tvg-id="340381" group-title="EPL Event",19. EPL 05 | Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+#EXTINF:-1 tvg-id="340381" group-title="EPL Event",19. EPL 05 | Fulham vs Crystal Palace (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/340381.ts
-#EXTINF:-1 tvg-id="405039" group-title="EPL Event",20. EPL 05 | Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+#EXTINF:-1 tvg-id="405039" group-title="EPL Event",20. EPL 05 | Fulham vs Crystal Palace (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405039.ts
-#EXTINF:-1 tvg-id="405038" group-title="EPL Event",21. EPL 05 | Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+#EXTINF:-1 tvg-id="405038" group-title="EPL Event",21. EPL 05 | Fulham vs Crystal Palace (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405038.ts
-#EXTINF:-1 tvg-id="405037" group-title="EPL Event",22. EPL 05 | Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+#EXTINF:-1 tvg-id="405037" group-title="EPL Event",22. EPL 05 | Fulham vs Crystal Palace (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405037.ts
-#EXTINF:-1 tvg-id="405036" group-title="EPL Event",23. EPL 06 | Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="405036" group-title="EPL Event",23. EPL 06 | Manchester City vs Coventry City (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405036.ts
-#EXTINF:-1 tvg-id="405035" group-title="EPL Event",24. EPL 06 | Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="405035" group-title="EPL Event",24. EPL 06 | Manchester City vs Coventry City (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405035.ts
-#EXTINF:-1 tvg-id="405034" group-title="EPL Event",25. EPL 06 | Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="405034" group-title="EPL Event",25. EPL 06 | Manchester City vs Coventry City (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/405034.ts
-#EXTINF:-1 tvg-id="437930" group-title="EPL Event",26. EPL 06 | Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="437930" group-title="EPL Event",26. EPL 06 | Manchester City vs Coventry City (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437930.ts
-#EXTINF:-1 tvg-id="437931" group-title="EPL Event",27. EPL 07 | Leeds United vs Brentford (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="437931" group-title="EPL Event",27. EPL 07 | Nottingham Forest vs Tottenham Hotspur (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437931.ts
-#EXTINF:-1 tvg-id="437932" group-title="EPL Event",28. EPL 07 | Leeds United vs Brentford (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="437932" group-title="EPL Event",28. EPL 07 | Nottingham Forest vs Tottenham Hotspur (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437932.ts
-#EXTINF:-1 tvg-id="437933" group-title="EPL Event",29. EPL 07 | Leeds United vs Brentford (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="437933" group-title="EPL Event",29. EPL 07 | Nottingham Forest vs Tottenham Hotspur (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437933.ts
-#EXTINF:-1 tvg-id="437934" group-title="EPL Event",30. EPL 07 | Leeds United vs Brentford (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="437934" group-title="EPL Event",30. EPL 07 | Nottingham Forest vs Tottenham Hotspur (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437934.ts
-#EXTINF:-1 tvg-id="437935" group-title="EPL Event",31. EPL 08 | Sunderland vs Fulham (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="437935" group-title="EPL Event",31. EPL 08 | Hull City vs Aston Villa (Sat 17:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437935.ts
-#EXTINF:-1 tvg-id="437936" group-title="EPL Event",32. EPL 08 | Sunderland vs Fulham (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="437936" group-title="EPL Event",32. EPL 08 | Hull City vs Aston Villa (Sat 17:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437936.ts
-#EXTINF:-1 tvg-id="437937" group-title="EPL Event",33. EPL 08 | Sunderland vs Fulham (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="437937" group-title="EPL Event",33. EPL 08 | Hull City vs Aston Villa (Sat 17:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437937.ts
-#EXTINF:-1 tvg-id="437938" group-title="EPL Event",34. EPL 08 | Sunderland vs Fulham (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="437938" group-title="EPL Event",34. EPL 08 | Hull City vs Aston Villa (Sat 17:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437938.ts
-#EXTINF:-1 tvg-id="437939" group-title="EPL Event",35. EPL 09 | Manchester United vs Ipswich Town (Sun 16:30 UK)
+#EXTINF:-1 tvg-id="437939" group-title="EPL Event",35. EPL 09 | Everton vs Manchester United (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/437939.ts
 #EXTINF:-1 tvg-id="697153" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 24/7
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697153.ts
-#EXTINF:-1 tvg-id="697154" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 01: Crystal Palace vs Manchester City (Fri 20:00 UK)
+#EXTINF:-1 tvg-id="697154" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 01: Ipswich Town vs Liverpool (Fri 20:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697154.ts
-#EXTINF:-1 tvg-id="697155" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 02: Liverpool vs Nottingham Forest (Sat 12:30 UK)
+#EXTINF:-1 tvg-id="697155" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 02: Newcastle United vs Bournemouth (Sat 12:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697155.ts
-#EXTINF:-1 tvg-id="697156" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 03: Bournemouth vs Everton (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="697156" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 03: Brentford vs Sunderland (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697156.ts
-#EXTINF:-1 tvg-id="697157" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 04: Coventry City vs Hull City (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="697157" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 04: Brighton and Hove Albion vs Leeds United (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697157.ts
-#EXTINF:-1 tvg-id="697158" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 05: Tottenham Hotspur vs Newcastle United (Sat 17:30 UK)
+#EXTINF:-1 tvg-id="697158" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 05: Fulham vs Crystal Palace (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697158.ts
-#EXTINF:-1 tvg-id="697159" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 06: Chelsea vs Brighton and Hove Albion (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="697159" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 06: Manchester City vs Coventry City (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697159.ts
-#EXTINF:-1 tvg-id="697160" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 07: Leeds United vs Brentford (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="697160" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 07: Nottingham Forest vs Tottenham Hotspur (Sat 15:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697160.ts
-#EXTINF:-1 tvg-id="697161" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 08: Sunderland vs Fulham (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="697161" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 08: Hull City vs Aston Villa (Sat 17:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697161.ts
-#EXTINF:-1 tvg-id="396308" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 09: Manchester United vs Ipswich Town (Sun 16:30 UK)
+#EXTINF:-1 tvg-id="396308" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 09: Everton vs Manchester United (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/396308.ts
-#EXTINF:-1 tvg-id="945352" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 10: Aston Villa vs Arsenal (Mon 20:00 UK)
+#EXTINF:-1 tvg-id="945352" group-title="TH | MonoMax PL EVENT",TH | MonoMax PL 10: Arsenal vs Chelsea (Sun 16:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/945352.ts
 #EXTINF:-1 tvg-id="952022" group-title="Hub Premier",Hub Premier 1 FHD
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/952022.ts
@@ -471,19 +471,19 @@ http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635401.ts
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635400.ts
 #EXTINF:-1 tvg-id="635399" group-title="WSL & FA Player",FA Player 14 (Live Events Only)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/635399.ts
-#EXTINF:-1 tvg-id="174941" group-title="Footbal Live Event",01. Coppa Italia | Sassuolo vs Frosinone (Wed 14:00 UK)
+#EXTINF:-1 tvg-id="174941" group-title="Footbal Live Event",01. Coppa Italia | Palermo vs Mantova (Thu 17:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174941.ts
-#EXTINF:-1 tvg-id="174951" group-title="Footbal Live Event",02. Coppa Italia | Sassuolo vs Frosinone (Wed 14:00 UK)
+#EXTINF:-1 tvg-id="174951" group-title="Footbal Live Event",02. Coppa Italia | Palermo vs Mantova (Thu 17:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174951.ts
-#EXTINF:-1 tvg-id="174938" group-title="Footbal Live Event",03. Serie A | Udinese vs Venezia (Wed 17:00 UK)
+#EXTINF:-1 tvg-id="174938" group-title="Footbal Live Event",03. Coppa Italia | Cagliari vs Verona (Thu 20:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174938.ts
-#EXTINF:-1 tvg-id="174939" group-title="Footbal Live Event",04. Serie A | Udinese vs Venezia (Wed 17:00 UK)
+#EXTINF:-1 tvg-id="174939" group-title="Footbal Live Event",04. Coppa Italia | Cagliari vs Verona (Thu 20:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174939.ts
-#EXTINF:-1 tvg-id="174940" group-title="Footbal Live Event",05. DFB-Pokal | Osnabruck vs Bayern Munich (Wed 19:45 UK)
+#EXTINF:-1 tvg-id="174940" group-title="Footbal Live Event",05. Copa do Brasil | Gremio vs Internacional (Fri 00:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174940.ts
-#EXTINF:-1 tvg-id="174949" group-title="Footbal Live Event",06. DFB-Pokal | Osnabruck vs Bayern Munich (Wed 19:45 UK)
+#EXTINF:-1 tvg-id="174949" group-title="Footbal Live Event",06. Copa do Brasil | Gremio vs Internacional (Fri 00:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174949.ts
-#EXTINF:-1 tvg-id="174952" group-title="Footbal Live Event",07. DFB-Pokal | Osnabruck vs Bayern Munich (Wed 19:45 UK)
+#EXTINF:-1 tvg-id="174952" group-title="Footbal Live Event",07. Football | No Event
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174952.ts
 #EXTINF:-1 tvg-id="174950" group-title="Footbal Live Event",08. Football | No Event
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/174950.ts
@@ -541,17 +541,17 @@ http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/286957.ts
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/697711.ts
 #EXTINF:-1 tvg-id="286956" group-title="Footbal Live Event",35. Football | No Event
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/286956.ts
-#EXTINF:-1 tvg-id="713927" group-title="EPL Event",36. EPL 09 | Manchester United vs Ipswich Town (Sun 16:30 UK)
+#EXTINF:-1 tvg-id="713927" group-title="EPL Event",36. EPL 09 | Everton vs Manchester United (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713927.ts
-#EXTINF:-1 tvg-id="713926" group-title="EPL Event",37. EPL 09 | Manchester United vs Ipswich Town (Sun 16:30 UK)
+#EXTINF:-1 tvg-id="713926" group-title="EPL Event",37. EPL 09 | Everton vs Manchester United (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713926.ts
-#EXTINF:-1 tvg-id="713925" group-title="EPL Event",38. EPL 09 | Manchester United vs Ipswich Town (Sun 16:30 UK)
+#EXTINF:-1 tvg-id="713925" group-title="EPL Event",38. EPL 09 | Everton vs Manchester United (Sun 14:00 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713925.ts
-#EXTINF:-1 tvg-id="713924" group-title="EPL Event",39. EPL 10 | Aston Villa vs Arsenal (Mon 20:00 UK)
+#EXTINF:-1 tvg-id="713924" group-title="EPL Event",39. EPL 10 | Arsenal vs Chelsea (Sun 16:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713924.ts
-#EXTINF:-1 tvg-id="713822" group-title="EPL Event",40. EPL 10 | Aston Villa vs Arsenal (Mon 20:00 UK)
+#EXTINF:-1 tvg-id="713822" group-title="EPL Event",40. EPL 10 | Arsenal vs Chelsea (Sun 16:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713822.ts
-#EXTINF:-1 tvg-id="713928" group-title="EPL Event",41. EPL 10 | Aston Villa vs Arsenal (Mon 20:00 UK)
+#EXTINF:-1 tvg-id="713928" group-title="EPL Event",41. EPL 10 | Arsenal vs Chelsea (Sun 16:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713928.ts
-#EXTINF:-1 tvg-id="713929" group-title="EPL Event",42. EPL 10 | Aston Villa vs Arsenal (Mon 20:00 UK)
+#EXTINF:-1 tvg-id="713929" group-title="EPL Event",42. EPL 10 | Arsenal vs Chelsea (Sun 16:30 UK)
 http://ostvasia.xyz/live/tipu270219/dwhtKk6Ya/713929.ts
