@@ -4,7 +4,7 @@ import requests
 from datetime import datetime, timedelta, timezone
 
 # ดึงค่าจาก GitHub Secrets
-HOST = os.getenv("API_HOST", "http://ostvasia.xyz").strip()
+HOST = os.getenv("API_HOST", "http://greeneyegenie.com").strip()
 if not HOST.startswith("http"):
     HOST = f"http://{HOST}"
 HOST = HOST.rstrip("/")
@@ -13,19 +13,23 @@ USERNAME = os.getenv("API_USERNAME", "").strip()
 PASSWORD = os.getenv("API_PASSWORD", "").strip()
 OUTPUT_LIVE_M3U = "live_only_ostvasia.m3u"
 
-# กำหนดชื่อกลุ่มและรหัสหมวดหมู่
+# กำหนดชื่อกลุ่มและรหัสหมวดหมู่ใหม่
 CATEGORY_MAPPING = {
-    "1624": "TH | MonoMax PL EVENT",
-    "7050": "EPL Event",
-    "1566": "EPL | Hub Event",
-    "1524": "Footbal Live Event",
-    "7527": "PL+ | Premier League Event",
-    "7528": "HK | Now HK PL",
-    "1629": "Hub Premier",
-    "7075": "EFL Cup Event",
-    "7080": "La Liga Event",
-    "7083": "Ligue 1 Pass",
-    "6027": "WSL & FA Player"
+    "1382": "VIP | GOLDEN EVENTS",
+    "1350": "VIP | UEFA CHAMPIONS LEAGUE",
+    "1362": "VIP | UEFA EUROPA LEAGUE",
+    "1344": "VIP | PREMIER LEAGUE",
+    "1346": "VIP | LA LIGA",
+    "1349": "VIP | LIGUE 1",
+    "1347": "VIP | SERIE A",
+    "1345": "VIP | BUNDESLIGA",
+    "1361": "VIP | LIGA PORTUGAL BETCLIC",
+    "580": "VIP | FORMULA 1",
+    "1587": "VIP | WORLD CRICKET",
+    "1384": "VIP | CHRISTMAS",
+    "1353": "VIP | 4 GOLDEN RELAX",
+    "1383": "VIP | MUSIC CONCERTS",
+    "1496": "VIP | 4K ULTRA HD"
 }
 
 headers = {
