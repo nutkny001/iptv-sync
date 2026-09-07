@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://greeneyegenie.com/xmltv.php?username=00F882A43D2340F&password=ry8gtvmfo7"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 06-09-2026 17:37 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 07-09-2026 16:53 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="682950" group-title="VIP | GOLDEN EVENTS",##### GOLDEN EVENTS #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682950.ts
-#EXTINF:-1 tvg-id="1123275" group-title="VIP | GOLDEN EVENTS",VIP - UFC FIGHT NIGHT HOOKER @ PARNASSE – SEP 5 – 12:00 PM ET / 5:00 PM UK
+#EXTINF:-1 tvg-id="1123275" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123275.ts
-#EXTINF:-1 tvg-id="1123274" group-title="VIP | GOLDEN EVENTS",VIP - UFC FIGHT NIGHT HOOKER @ PARNASSE – SEP 5 – 12:00 PM ET / 5:00 PM UK
+#EXTINF:-1 tvg-id="1123274" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123274.ts
 #EXTINF:-1 tvg-id="682951" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682951.ts
@@ -75,17 +75,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682958.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682957.ts
 #EXTINF:-1 tvg-id="1296611" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### FRENCH ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296611.ts
-#EXTINF:-1 tvg-id="1150141" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-id="1150141" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - AEK ATHENS VS LASK LINZ 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150141.ts
-#EXTINF:-1 tvg-id="1150140" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-id="1150140" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - CLUB BRUGGE VS ASTON VILLA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150140.ts
-#EXTINF:-1 tvg-id="1150136" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-id="1150136" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - BORUSSIA DORTMUND VS VILLARREAL 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150136.ts
-#EXTINF:-1 tvg-id="1150135" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-id="1150135" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - PORTO VS MANCHESTER CITY 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150135.ts
-#EXTINF:-1 tvg-id="1096035" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-id="1096035" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - LILLE VS REAL BETIS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096035.ts
-#EXTINF:-1 tvg-id="1096034" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-id="1096034" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - REAL MADRID VS INTERNAZIONALE 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096034.ts
 #EXTINF:-1 tvg-id="1096031" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096031.ts
@@ -95,17 +95,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096029.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096028.ts
 #EXTINF:-1 tvg-id="1296612" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ENGLISH ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296612.ts
-#EXTINF:-1 tvg-id="1150168" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-id="1150168" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - AEK ATHENS VS LASK LINZ 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150168.ts
-#EXTINF:-1 tvg-id="1150167" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-id="1150167" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - CLUB BRUGGE VS ASTON VILLA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150167.ts
-#EXTINF:-1 tvg-id="1150166" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-id="1150166" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - BORUSSIA DORTMUND VS VILLARREAL 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150166.ts
-#EXTINF:-1 tvg-id="1150165" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-id="1150165" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - PORTO VS MANCHESTER CITY 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150165.ts
-#EXTINF:-1 tvg-id="1150164" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-id="1150164" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - LILLE VS REAL BETIS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150164.ts
-#EXTINF:-1 tvg-id="1150163" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-id="1150163" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - REAL MADRID VS INTERNAZIONALE 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150163.ts
 #EXTINF:-1 tvg-id="1096022" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096022.ts
@@ -115,17 +115,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096020.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096019.ts
 #EXTINF:-1 tvg-id="1296613" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ARABIC ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296613.ts
-#EXTINF:-1 tvg-id="1292008" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-id="1292008" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - AEK ATHENS VS LASK LINZ 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292008.ts
-#EXTINF:-1 tvg-id="1292007" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-id="1292007" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - CLUB BRUGGE VS ASTON VILLA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292007.ts
-#EXTINF:-1 tvg-id="1292006" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-id="1292006" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - BORUSSIA DORTMUND VS VILLARREAL 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292006.ts
-#EXTINF:-1 tvg-id="1150139" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-id="1150139" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - PORTO VS MANCHESTER CITY 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150139.ts
-#EXTINF:-1 tvg-id="1150138" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-id="1150138" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - LILLE VS REAL BETIS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150138.ts
-#EXTINF:-1 tvg-id="1150133" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-id="1150133" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - REAL MADRID VS INTERNAZIONALE 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150133.ts
 #EXTINF:-1 tvg-id="1150127" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150127.ts
@@ -135,17 +135,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096005.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096003.ts
 #EXTINF:-1 tvg-id="1296614" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### SPANISH ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296614.ts
-#EXTINF:-1 tvg-id="1292015" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
+#EXTINF:-1 tvg-id="1292015" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - AEK ATHENS VS LASK LINZ 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292015.ts
-#EXTINF:-1 tvg-id="1150174" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
+#EXTINF:-1 tvg-id="1150174" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - CLUB BRUGGE VS ASTON VILLA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150174.ts
-#EXTINF:-1 tvg-id="1095992" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
+#EXTINF:-1 tvg-id="1095992" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - BORUSSIA DORTMUND VS VILLARREAL 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095992.ts
-#EXTINF:-1 tvg-id="1095991" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
+#EXTINF:-1 tvg-id="1095991" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - PORTO VS MANCHESTER CITY 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095991.ts
-#EXTINF:-1 tvg-id="1095990" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
+#EXTINF:-1 tvg-id="1095990" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - LILLE VS REAL BETIS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095990.ts
-#EXTINF:-1 tvg-id="1095989" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
+#EXTINF:-1 tvg-id="1095989" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - REAL MADRID VS INTERNAZIONALE 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095989.ts
 #EXTINF:-1 tvg-id="1095988" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095988.ts
@@ -155,42 +155,42 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095985.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1040907.ts
 #EXTINF:-1 tvg-id="1296621" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### DEUTSCH ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296621.ts
-#EXTINF:-1 tvg-id="1292020" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
+#EXTINF:-1 tvg-id="1292020" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - AEK ATHENS VS LASK LINZ 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292020.ts
-#EXTINF:-1 tvg-id="1292019" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
+#EXTINF:-1 tvg-id="1292019" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - CLUB BRUGGE VS ASTON VILLA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292019.ts
-#EXTINF:-1 tvg-id="1274770" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
+#EXTINF:-1 tvg-id="1274770" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - BORUSSIA DORTMUND VS VILLARREAL 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1274770.ts
-#EXTINF:-1 tvg-id="1274765" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
+#EXTINF:-1 tvg-id="1274765" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - PORTO VS MANCHESTER CITY 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1274765.ts
+#EXTINF:-1 tvg-id="1150171" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - LILLE VS REAL BETIS 20:00 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150171.ts
+#EXTINF:-1 tvg-id="1095981" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - REAL MADRID VS INTERNAZIONALE 20:00 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095981.ts
 #EXTINF:-1 tvg-id="1024111" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024111.ts
-#EXTINF:-1 tvg-id="1150171" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150171.ts
-#EXTINF:-1 tvg-id="1095981" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095981.ts
 #EXTINF:-1 tvg-id="1039871" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039871.ts
 #EXTINF:-1 tvg-id="1024434" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024434.ts
 #EXTINF:-1 tvg-id="1296619" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ALBANIAN ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296619.ts
-#EXTINF:-1 tvg-id="1274757" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-id="1274757" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - AEK ATHENS VS LASK LINZ 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1274757.ts
-#EXTINF:-1 tvg-id="1274756" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-id="1274756" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - CLUB BRUGGE VS ASTON VILLA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1274756.ts
-#EXTINF:-1 tvg-id="1248255" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-id="1248255" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - BORUSSIA DORTMUND VS VILLARREAL 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1248255.ts
-#EXTINF:-1 tvg-id="1150172" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
+#EXTINF:-1 tvg-id="1150172" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - PORTO VS MANCHESTER CITY 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150172.ts
+#EXTINF:-1 tvg-id="1150157" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - LILLE VS REAL BETIS 20:00 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150157.ts
+#EXTINF:-1 tvg-id="1150156" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - REAL MADRID VS INTERNAZIONALE 20:00 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150156.ts
 #EXTINF:-1 tvg-id="1150154" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150154.ts
 #EXTINF:-1 tvg-id="1150137" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150137.ts
-#EXTINF:-1 tvg-id="1150157" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150157.ts
-#EXTINF:-1 tvg-id="1150156" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150156.ts
 #EXTINF:-1 tvg-id="1150155" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150155.ts
 #EXTINF:-1 tvg-id="1091817" group-title="VIP | UEFA EUROPA LEAGUE",##### FRENCH #####
@@ -347,9 +347,9 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682938.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682939.ts
 #EXTINF:-1 tvg-id="1020754" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1020754.ts
-#EXTINF:-1 tvg-id="1100811" group-title="VIP | PREMIER LEAGUE",EN - EVERTON VS MANCHESTER UNITED 14:00 CET
+#EXTINF:-1 tvg-id="1100811" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100811.ts
-#EXTINF:-1 tvg-id="1100810" group-title="VIP | PREMIER LEAGUE",EN - ARSENAL VS CHELSEA 16:30 CET
+#EXTINF:-1 tvg-id="1100810" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100810.ts
 #EXTINF:-1 tvg-id="1015554" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015554.ts
@@ -369,9 +369,9 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015548.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015547.ts
 #EXTINF:-1 tvg-id="1020753" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1020753.ts
-#EXTINF:-1 tvg-id="1100813" group-title="VIP | PREMIER LEAGUE",FR - EVERTON VS MANCHESTER UNITED 14:00 CET
+#EXTINF:-1 tvg-id="1100813" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100813.ts
-#EXTINF:-1 tvg-id="1100812" group-title="VIP | PREMIER LEAGUE",FR - ARSENAL VS CHELSEA 16:30 CET
+#EXTINF:-1 tvg-id="1100812" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100812.ts
 #EXTINF:-1 tvg-id="1015546" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015546.ts
@@ -391,9 +391,9 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015540.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015539.ts
 #EXTINF:-1 tvg-id="1020752" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1020752.ts
-#EXTINF:-1 tvg-id="1100815" group-title="VIP | PREMIER LEAGUE",AR - EVERTON VS MANCHESTER UNITED 14:00 CET
+#EXTINF:-1 tvg-id="1100815" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100815.ts
-#EXTINF:-1 tvg-id="1100814" group-title="VIP | PREMIER LEAGUE",AR - ARSENAL VS CHELSEA 16:30 CET
+#EXTINF:-1 tvg-id="1100814" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100814.ts
 #EXTINF:-1 tvg-id="1015562" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015562.ts
@@ -413,9 +413,9 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015556.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015555.ts
 #EXTINF:-1 tvg-id="1024114" group-title="VIP | PREMIER LEAGUE",##### ALBANIAN #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024114.ts
-#EXTINF:-1 tvg-id="1388024" group-title="VIP | PREMIER LEAGUE",ALB - EVERTON VS MANCHESTER UNITED 14:00 CET
+#EXTINF:-1 tvg-id="1388024" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1388024.ts
-#EXTINF:-1 tvg-id="1388023" group-title="VIP | PREMIER LEAGUE",ALB - ARSENAL VS CHELSEA 16:30 CET
+#EXTINF:-1 tvg-id="1388023" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1388023.ts
 #EXTINF:-1 tvg-id="1225673" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1225673.ts
@@ -435,13 +435,13 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024115.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024113.ts
 #EXTINF:-1 tvg-id="1015817" group-title="VIP | LA LIGA",##### FRENCH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015817.ts
-#EXTINF:-1 tvg-id="1117244" group-title="VIP | LA LIGA",FR - VALENCIA VS BARCELONA 15:15 CET
+#EXTINF:-1 tvg-id="1117244" group-title="VIP | LA LIGA",FR - GETAFE VS CELTA DE VIGO 18:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1117244.ts
-#EXTINF:-1 tvg-id="1100783" group-title="VIP | LA LIGA",FR - DEPORTIVO ALAVÉS VS OSASUNA 17:30 CET
+#EXTINF:-1 tvg-id="1100783" group-title="VIP | LA LIGA",FR - ELCHE VS REAL SOCIEDAD 20:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100783.ts
-#EXTINF:-1 tvg-id="1100776" group-title="VIP | LA LIGA",FR - MÁLAGA VS LEVANTE 17:30 CET
+#EXTINF:-1 tvg-id="1100776" group-title="VIP | LA LIGA",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100776.ts
-#EXTINF:-1 tvg-id="1100775" group-title="VIP | LA LIGA",FR - ESPANYOL VS SEVILLA 20:00 CET
+#EXTINF:-1 tvg-id="1100775" group-title="VIP | LA LIGA",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100775.ts
 #EXTINF:-1 tvg-id="1033738" group-title="VIP | LA LIGA",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1033738.ts
@@ -457,13 +457,13 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015823.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015821.ts
 #EXTINF:-1 tvg-id="1015824" group-title="VIP | LA LIGA",##### ENGLISH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015824.ts
-#EXTINF:-1 tvg-id="1117243" group-title="VIP | LA LIGA",EN - VALENCIA VS BARCELONA 15:15 CET
+#EXTINF:-1 tvg-id="1117243" group-title="VIP | LA LIGA",EN - GETAFE VS CELTA DE VIGO 18:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1117243.ts
-#EXTINF:-1 tvg-id="1100784" group-title="VIP | LA LIGA",EN - DEPORTIVO ALAVÉS VS OSASUNA 17:30 CET
+#EXTINF:-1 tvg-id="1100784" group-title="VIP | LA LIGA",EN - ELCHE VS REAL SOCIEDAD 20:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100784.ts
-#EXTINF:-1 tvg-id="1100774" group-title="VIP | LA LIGA",EN - MÁLAGA VS LEVANTE 17:30 CET
+#EXTINF:-1 tvg-id="1100774" group-title="VIP | LA LIGA",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100774.ts
-#EXTINF:-1 tvg-id="1100772" group-title="VIP | LA LIGA",EN - ESPANYOL VS SEVILLA 20:00 CET
+#EXTINF:-1 tvg-id="1100772" group-title="VIP | LA LIGA",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100772.ts
 #EXTINF:-1 tvg-id="1033746" group-title="VIP | LA LIGA",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1033746.ts
@@ -481,13 +481,13 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015827.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001780.ts
 #EXTINF:-1 tvg-id="1015831" group-title="VIP | LA LIGA",##### ARABIC #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015831.ts
-#EXTINF:-1 tvg-id="1100782" group-title="VIP | LA LIGA",AR - VALENCIA VS BARCELONA 15:15 CET
+#EXTINF:-1 tvg-id="1100782" group-title="VIP | LA LIGA",AR - GETAFE VS CELTA DE VIGO 18:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100782.ts
-#EXTINF:-1 tvg-id="1100778" group-title="VIP | LA LIGA",AR - DEPORTIVO ALAVÉS VS OSASUNA 17:30 CET
+#EXTINF:-1 tvg-id="1100778" group-title="VIP | LA LIGA",AR - ELCHE VS REAL SOCIEDAD 20:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100778.ts
-#EXTINF:-1 tvg-id="1100777" group-title="VIP | LA LIGA",AR - MÁLAGA VS LEVANTE 17:30 CET
+#EXTINF:-1 tvg-id="1100777" group-title="VIP | LA LIGA",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100777.ts
-#EXTINF:-1 tvg-id="1033758" group-title="VIP | LA LIGA",AR - ESPANYOL VS SEVILLA 20:00 CET
+#EXTINF:-1 tvg-id="1033758" group-title="VIP | LA LIGA",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1033758.ts
 #EXTINF:-1 tvg-id="1033362" group-title="VIP | LA LIGA",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1033362.ts
@@ -503,13 +503,13 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015835.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001784.ts
 #EXTINF:-1 tvg-id="1033317" group-title="VIP | LA LIGA",##### SPAIN #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1033317.ts
-#EXTINF:-1 tvg-id="1117245" group-title="VIP | LA LIGA",ES - VALENCIA VS BARCELONA 15:15 CET
+#EXTINF:-1 tvg-id="1117245" group-title="VIP | LA LIGA",ES - GETAFE VS CELTA DE VIGO 18:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1117245.ts
-#EXTINF:-1 tvg-id="1100781" group-title="VIP | LA LIGA",ES - DEPORTIVO ALAVÉS VS OSASUNA 17:30 CET
+#EXTINF:-1 tvg-id="1100781" group-title="VIP | LA LIGA",ES - ELCHE VS REAL SOCIEDAD 20:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100781.ts
-#EXTINF:-1 tvg-id="1100780" group-title="VIP | LA LIGA",ES - MÁLAGA VS LEVANTE 17:30 CET
+#EXTINF:-1 tvg-id="1100780" group-title="VIP | LA LIGA",ES - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100780.ts
-#EXTINF:-1 tvg-id="1100779" group-title="VIP | LA LIGA",ES - ESPANYOL VS SEVILLA 20:00 CET
+#EXTINF:-1 tvg-id="1100779" group-title="VIP | LA LIGA",ES - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100779.ts
 #EXTINF:-1 tvg-id="1033785" group-title="VIP | LA LIGA",ES - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1033785.ts
@@ -525,13 +525,13 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1033355.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1028728.ts
 #EXTINF:-1 tvg-id="1145824" group-title="VIP | LA LIGA",##### ALBANIA #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1145824.ts
-#EXTINF:-1 tvg-id="1145838" group-title="VIP | LA LIGA",ALB - VALENCIA VS BARCELONA 15:15 CET
+#EXTINF:-1 tvg-id="1145838" group-title="VIP | LA LIGA",ALB - GETAFE VS CELTA DE VIGO 18:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1145838.ts
-#EXTINF:-1 tvg-id="1117242" group-title="VIP | LA LIGA",ALB - DEPORTIVO ALAVÉS VS OSASUNA 17:30 CET
+#EXTINF:-1 tvg-id="1117242" group-title="VIP | LA LIGA",ALB - ELCHE VS REAL SOCIEDAD 20:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1117242.ts
-#EXTINF:-1 tvg-id="1086615" group-title="VIP | LA LIGA",ALB - MÁLAGA VS LEVANTE 17:30 CET
+#EXTINF:-1 tvg-id="1086615" group-title="VIP | LA LIGA",ALB - (NO MATCH)
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1086615.ts
-#EXTINF:-1 tvg-id="1015834" group-title="VIP | LA LIGA",ALB - ESPANYOL VS SEVILLA 20:00 CET
+#EXTINF:-1 tvg-id="1015834" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015834.ts
 #EXTINF:-1 tvg-id="1015833" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015833.ts
@@ -547,11 +547,11 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015818.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001754.ts
 #EXTINF:-1 tvg-id="1018302" group-title="VIP | LIGUE 1",##### FRENCH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018302.ts
-#EXTINF:-1 tvg-id="1022237" group-title="VIP | LIGUE 1",FR - TROYES VS STRASBOURG 14:00 CET
+#EXTINF:-1 tvg-id="1022237" group-title="VIP | LIGUE 1",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1022237.ts
-#EXTINF:-1 tvg-id="1018311" group-title="VIP | LIGUE 1",FR - ANGERS SCO VS RENNES 16:15 CET
+#EXTINF:-1 tvg-id="1018311" group-title="VIP | LIGUE 1",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018311.ts
-#EXTINF:-1 tvg-id="1018310" group-title="VIP | LIGUE 1",FR - OLYMPIQUE MARSEILLE VS PARIS 19:45 CET
+#EXTINF:-1 tvg-id="1018310" group-title="VIP | LIGUE 1",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018310.ts
 #EXTINF:-1 tvg-id="1018309" group-title="VIP | LIGUE 1",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018309.ts
@@ -571,11 +571,11 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001769.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018303.ts
 #EXTINF:-1 tvg-id="1018312" group-title="VIP | LIGUE 1",##### ARABIC #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018312.ts
-#EXTINF:-1 tvg-id="1018321" group-title="VIP | LIGUE 1",AR - TROYES VS STRASBOURG 14:00 CET
+#EXTINF:-1 tvg-id="1018321" group-title="VIP | LIGUE 1",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018321.ts
-#EXTINF:-1 tvg-id="1018320" group-title="VIP | LIGUE 1",AR - ANGERS SCO VS RENNES 16:15 CET
+#EXTINF:-1 tvg-id="1018320" group-title="VIP | LIGUE 1",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018320.ts
-#EXTINF:-1 tvg-id="1018319" group-title="VIP | LIGUE 1",AR - OLYMPIQUE MARSEILLE VS PARIS 19:45 CET
+#EXTINF:-1 tvg-id="1018319" group-title="VIP | LIGUE 1",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018319.ts
 #EXTINF:-1 tvg-id="1018318" group-title="VIP | LIGUE 1",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018318.ts
@@ -593,11 +593,11 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018313.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001753.ts
 #EXTINF:-1 tvg-id="1018093" group-title="VIP | SERIE A",##### ITALY #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018093.ts
-#EXTINF:-1 tvg-id="1421365" group-title="VIP | SERIE A",IT - FIORENTINA Vs TORINO 14:00 CET
+#EXTINF:-1 tvg-id="1421365" group-title="VIP | SERIE A",IT - CAGLIARI VS LECCE 17:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421365.ts
-#EXTINF:-1 tvg-id="1100791" group-title="VIP | SERIE A",IT - INTERNAZIONALE Vs NAPOLI 17:00 CET
+#EXTINF:-1 tvg-id="1100791" group-title="VIP | SERIE A",IT - UDINESE VS LAZIO 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100791.ts
-#EXTINF:-1 tvg-id="1100790" group-title="VIP | SERIE A",IT - ROMA Vs ATALANTA 19:45 CET
+#EXTINF:-1 tvg-id="1100790" group-title="VIP | SERIE A",IT - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100790.ts
 #EXTINF:-1 tvg-id="1033757" group-title="VIP | SERIE A",IT - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1033757.ts
@@ -615,11 +615,11 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018102.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018103.ts
 #EXTINF:-1 tvg-id="1001778" group-title="VIP | SERIE A",##### ENGLISH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001778.ts
-#EXTINF:-1 tvg-id="1421366" group-title="VIP | SERIE A",EN - FIORENTINA Vs TORINO 14:00 CET
+#EXTINF:-1 tvg-id="1421366" group-title="VIP | SERIE A",EN - CAGLIARI VS LECCE 17:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421366.ts
-#EXTINF:-1 tvg-id="1100792" group-title="VIP | SERIE A",EN - INTERNAZIONALE Vs NAPOLI 17:00 CET
+#EXTINF:-1 tvg-id="1100792" group-title="VIP | SERIE A",EN - UDINESE VS LAZIO 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100792.ts
-#EXTINF:-1 tvg-id="1028898" group-title="VIP | SERIE A",EN - ROMA Vs ATALANTA 19:45 CET
+#EXTINF:-1 tvg-id="1028898" group-title="VIP | SERIE A",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1028898.ts
 #EXTINF:-1 tvg-id="1028731" group-title="VIP | SERIE A",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1028731.ts
@@ -637,15 +637,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018094.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018095.ts
 #EXTINF:-1 tvg-id="1001752" group-title="VIP | SERIE A",##### ARABIC #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001752.ts
-#EXTINF:-1 tvg-id="1421367" group-title="VIP | SERIE A",AR - FIORENTINA Vs TORINO 14:00 CET
+#EXTINF:-1 tvg-id="1421367" group-title="VIP | SERIE A",AR - CAGLIARI VS LECCE 17:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421367.ts
-#EXTINF:-1 tvg-id="1421364" group-title="VIP | SERIE A",AR - INTERNAZIONALE Vs NAPOLI 17:00 CET
+#EXTINF:-1 tvg-id="1421364" group-title="VIP | SERIE A",AR - UDINESE VS LAZIO 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421364.ts
-#EXTINF:-1 tvg-id="1421363" group-title="VIP | SERIE A",AR - ROMA Vs ATALANTA 19:45 CET
+#EXTINF:-1 tvg-id="1421363" group-title="VIP | SERIE A",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421363.ts
+#EXTINF:-1 tvg-id="1421362" group-title="VIP | SERIE A",AR - NO MATCH
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421362.ts
 #EXTINF:-1 tvg-id="1018112" group-title="VIP | SERIE A",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018112.ts
-#EXTINF:-1 tvg-id="1018113" group-title="VIP | SERIE A",AR - NO EVENT
+#EXTINF:-1 tvg-id="1018113" group-title="VIP | SERIE A",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018113.ts
 #EXTINF:-1 tvg-id="1018111" group-title="VIP | SERIE A",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018111.ts
@@ -655,13 +657,11 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018110.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018109.ts
 #EXTINF:-1 tvg-id="1018108" group-title="VIP | SERIE A",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018108.ts
-#EXTINF:-1 tvg-id="1421362" group-title="VIP | SERIE A",AR - NO MATCH
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421362.ts
 #EXTINF:-1 tvg-id="1017979" group-title="VIP | BUNDESLIGA",##### DEUTSCH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017979.ts
-#EXTINF:-1 tvg-id="1100768" group-title="VIP | BUNDESLIGA",DE - HAMBURGER SV VS MAINZ 05 14:30 CET
+#EXTINF:-1 tvg-id="1100768" group-title="VIP | BUNDESLIGA",DE - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100768.ts
-#EXTINF:-1 tvg-id="1100767" group-title="VIP | BUNDESLIGA",DE - EINTRACHT FRANKFURT VS AUGSBURG 16:30 CET
+#EXTINF:-1 tvg-id="1100767" group-title="VIP | BUNDESLIGA",DE - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100767.ts
 #EXTINF:-1 tvg-id="1042307" group-title="VIP | BUNDESLIGA",DE - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1042307.ts
@@ -679,9 +679,9 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017980.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017981.ts
 #EXTINF:-1 tvg-id="1017972" group-title="VIP | BUNDESLIGA",##### ENGLISH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017972.ts
-#EXTINF:-1 tvg-id="1100762" group-title="VIP | BUNDESLIGA",EN - HAMBURGER SV VS MAINZ 05 14:30 CET
+#EXTINF:-1 tvg-id="1100762" group-title="VIP | BUNDESLIGA",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100762.ts
-#EXTINF:-1 tvg-id="1100761" group-title="VIP | BUNDESLIGA",EN - EINTRACHT FRANKFURT VS AUGSBURG 16:30 CET
+#EXTINF:-1 tvg-id="1100761" group-title="VIP | BUNDESLIGA",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100761.ts
 #EXTINF:-1 tvg-id="1042308" group-title="VIP | BUNDESLIGA",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1042308.ts
@@ -699,9 +699,9 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017973.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017974.ts
 #EXTINF:-1 tvg-id="1017965" group-title="VIP | BUNDESLIGA",##### FRENCH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017965.ts
-#EXTINF:-1 tvg-id="1100764" group-title="VIP | BUNDESLIGA",FR - HAMBURGER SV VS MAINZ 05 14:30 CET
+#EXTINF:-1 tvg-id="1100764" group-title="VIP | BUNDESLIGA",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100764.ts
-#EXTINF:-1 tvg-id="1100763" group-title="VIP | BUNDESLIGA",FR - EINTRACHT FRANKFURT VS AUGSBURG 16:30 CET
+#EXTINF:-1 tvg-id="1100763" group-title="VIP | BUNDESLIGA",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100763.ts
 #EXTINF:-1 tvg-id="1067573" group-title="VIP | BUNDESLIGA",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1067573.ts
@@ -719,9 +719,9 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017966.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1029737.ts
 #EXTINF:-1 tvg-id="1005066" group-title="VIP | BUNDESLIGA",##### ARABIC #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1005066.ts
-#EXTINF:-1 tvg-id="1100766" group-title="VIP | BUNDESLIGA",AR - HAMBURGER SV VS MAINZ 05 14:30 CET
+#EXTINF:-1 tvg-id="1100766" group-title="VIP | BUNDESLIGA",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100766.ts
-#EXTINF:-1 tvg-id="1100765" group-title="VIP | BUNDESLIGA",AR - EINTRACHT FRANKFURT VS AUGSBURG 16:30 CET
+#EXTINF:-1 tvg-id="1100765" group-title="VIP | BUNDESLIGA",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100765.ts
 #EXTINF:-1 tvg-id="1042306" group-title="VIP | BUNDESLIGA",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1042306.ts
@@ -739,13 +739,13 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017967.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017968.ts
 #EXTINF:-1 tvg-id="1032044" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL #### 
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1032044.ts
-#EXTINF:-1 tvg-id="1150149" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - ESTRELA Vs FAMALICÃO 15:30 CET
+#EXTINF:-1 tvg-id="1150149" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - ESTORIL VS AROUCA 20:15 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150149.ts
-#EXTINF:-1 tvg-id="1127869" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - MARÍTIMO Vs BENFICA 18:00 CET
+#EXTINF:-1 tvg-id="1127869" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1127869.ts
-#EXTINF:-1 tvg-id="1100841" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - ALVERCA Vs SPORTING BRAGA 18:00 CET
+#EXTINF:-1 tvg-id="1100841" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100841.ts
-#EXTINF:-1 tvg-id="1100840" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - SPORTING CP Vs NACIONAL 20:30 CET
+#EXTINF:-1 tvg-id="1100840" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100840.ts
 #EXTINF:-1 tvg-id="1100839" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100839.ts
