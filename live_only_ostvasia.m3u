@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://greeneyegenie.com/xmltv.php?username=00F882A43D2340F&password=ry8gtvmfo7"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 09-09-2026 16:20 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 10-09-2026 11:24 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="682950" group-title="VIP | GOLDEN EVENTS",##### GOLDEN EVENTS #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682950.ts
@@ -75,17 +75,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682958.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682957.ts
 #EXTINF:-1 tvg-id="1296611" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### FRENCH ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296611.ts
-#EXTINF:-1 tvg-id="1150141" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - BARCELONA VS FEYENOORD 17:45 CET
+#EXTINF:-1 tvg-id="1150141" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - FENERBAHÇE VS ROMA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150141.ts
-#EXTINF:-1 tvg-id="1150140" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - STUTTGART VS VIKING 17:45 CET
+#EXTINF:-1 tvg-id="1150140" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - PSV VS SHAKHTAR DONETSK 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150140.ts
-#EXTINF:-1 tvg-id="1150136" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - LIVERPOOL VS ATLÉTICO MADRID 20:00 CET
+#EXTINF:-1 tvg-id="1150136" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - BAYERN MÜNCHEN VS BODØ / GLIMT 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150136.ts
-#EXTINF:-1 tvg-id="1150135" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NAPOLI VS ARSENAL 20:00 CET
+#EXTINF:-1 tvg-id="1150135" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - COMO VS RB LEIPZIG 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150135.ts
-#EXTINF:-1 tvg-id="1096035" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - PSG VS SLOVAN BRATISLAVA 20:00 CET
+#EXTINF:-1 tvg-id="1096035" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - MANCHESTER UNITED VS SABAH 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096035.ts
-#EXTINF:-1 tvg-id="1096034" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - SPORTING CP VS GALATASARAY 20:00 CET
+#EXTINF:-1 tvg-id="1096034" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - SLAVIA PRAHA VS LENS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096034.ts
 #EXTINF:-1 tvg-id="1096031" group-title="VIP | UEFA CHAMPIONS LEAGUE",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096031.ts
@@ -95,17 +95,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096029.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096028.ts
 #EXTINF:-1 tvg-id="1296612" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ENGLISH ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296612.ts
-#EXTINF:-1 tvg-id="1150168" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - BARCELONA VS FEYENOORD 17:45 CET
+#EXTINF:-1 tvg-id="1150168" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - FENERBAHÇE VS ROMA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150168.ts
-#EXTINF:-1 tvg-id="1150167" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - STUTTGART VS VIKING 17:45 CET
+#EXTINF:-1 tvg-id="1150167" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - PSV VS SHAKHTAR DONETSK 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150167.ts
-#EXTINF:-1 tvg-id="1150166" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - LIVERPOOL VS ATLÉTICO MADRID 20:00 CET
+#EXTINF:-1 tvg-id="1150166" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - BAYERN MÜNCHEN VS BODØ / GLIMT 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150166.ts
-#EXTINF:-1 tvg-id="1150165" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NAPOLI VS ARSENAL 20:00 CET
+#EXTINF:-1 tvg-id="1150165" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - COMO VS RB LEIPZIG 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150165.ts
-#EXTINF:-1 tvg-id="1150164" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - PSG VS SLOVAN BRATISLAVA 20:00 CET
+#EXTINF:-1 tvg-id="1150164" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - MANCHESTER UNITED VS SABAH 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150164.ts
-#EXTINF:-1 tvg-id="1150163" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - SPORTING CP VS GALATASARAY 20:00 CET
+#EXTINF:-1 tvg-id="1150163" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - SLAVIA PRAHA VS LENS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150163.ts
 #EXTINF:-1 tvg-id="1096022" group-title="VIP | UEFA CHAMPIONS LEAGUE",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096022.ts
@@ -115,17 +115,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096020.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096019.ts
 #EXTINF:-1 tvg-id="1296613" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ARABIC ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296613.ts
-#EXTINF:-1 tvg-id="1292008" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - BARCELONA VS FEYENOORD 17:45 CET
+#EXTINF:-1 tvg-id="1292008" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - FENERBAHÇE VS ROMA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292008.ts
-#EXTINF:-1 tvg-id="1292007" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - STUTTGART VS VIKING 17:45 CET
+#EXTINF:-1 tvg-id="1292007" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - PSV VS SHAKHTAR DONETSK 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292007.ts
-#EXTINF:-1 tvg-id="1292006" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - LIVERPOOL VS ATLÉTICO MADRID 20:00 CET
+#EXTINF:-1 tvg-id="1292006" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - BAYERN MÜNCHEN VS BODØ / GLIMT 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292006.ts
-#EXTINF:-1 tvg-id="1150139" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NAPOLI VS ARSENAL 20:00 CET
+#EXTINF:-1 tvg-id="1150139" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - COMO VS RB LEIPZIG 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150139.ts
-#EXTINF:-1 tvg-id="1150138" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - PSG VS SLOVAN BRATISLAVA 20:00 CET
+#EXTINF:-1 tvg-id="1150138" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - MANCHESTER UNITED VS SABAH 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150138.ts
-#EXTINF:-1 tvg-id="1150133" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - SPORTING CP VS GALATASARAY 20:00 CET
+#EXTINF:-1 tvg-id="1150133" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - SLAVIA PRAHA VS LENS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150133.ts
 #EXTINF:-1 tvg-id="1150127" group-title="VIP | UEFA CHAMPIONS LEAGUE",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150127.ts
@@ -135,17 +135,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096005.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1096003.ts
 #EXTINF:-1 tvg-id="1296614" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### SPANISH ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296614.ts
-#EXTINF:-1 tvg-id="1292015" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - BARCELONA VS FEYENOORD 17:45 CET
+#EXTINF:-1 tvg-id="1292015" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - FENERBAHÇE VS ROMA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292015.ts
-#EXTINF:-1 tvg-id="1150174" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - STUTTGART VS VIKING 17:45 CET
+#EXTINF:-1 tvg-id="1150174" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - PSV VS SHAKHTAR DONETSK 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150174.ts
-#EXTINF:-1 tvg-id="1095992" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - LIVERPOOL VS ATLÉTICO MADRID 20:00 CET
+#EXTINF:-1 tvg-id="1095992" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - BAYERN MÜNCHEN VS BODØ / GLIMT 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095992.ts
-#EXTINF:-1 tvg-id="1095991" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NAPOLI VS ARSENAL 20:00 CET
+#EXTINF:-1 tvg-id="1095991" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - COMO VS RB LEIPZIG 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095991.ts
-#EXTINF:-1 tvg-id="1095990" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - PSG VS SLOVAN BRATISLAVA 20:00 CET
+#EXTINF:-1 tvg-id="1095990" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - MANCHESTER UNITED VS SABAH 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095990.ts
-#EXTINF:-1 tvg-id="1095989" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - SPORTING CP VS GALATASARAY 20:00 CET
+#EXTINF:-1 tvg-id="1095989" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - SLAVIA PRAHA VS LENS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095989.ts
 #EXTINF:-1 tvg-id="1095988" group-title="VIP | UEFA CHAMPIONS LEAGUE",SP - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095988.ts
@@ -155,17 +155,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095985.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1040907.ts
 #EXTINF:-1 tvg-id="1296621" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### DEUTSCH ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296621.ts
-#EXTINF:-1 tvg-id="1292020" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - BARCELONA VS FEYENOORD 17:45 CET
+#EXTINF:-1 tvg-id="1292020" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - FENERBAHÇE VS ROMA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292020.ts
-#EXTINF:-1 tvg-id="1292019" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - STUTTGART VS VIKING 17:45 CET
+#EXTINF:-1 tvg-id="1292019" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - PSV VS SHAKHTAR DONETSK 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292019.ts
-#EXTINF:-1 tvg-id="1274770" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - LIVERPOOL VS ATLÉTICO MADRID 20:00 CET
+#EXTINF:-1 tvg-id="1274770" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - BAYERN MÜNCHEN VS BODØ / GLIMT 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1274770.ts
-#EXTINF:-1 tvg-id="1274765" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NAPOLI VS ARSENAL 20:00 CET
+#EXTINF:-1 tvg-id="1274765" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - COMO VS RB LEIPZIG 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1274765.ts
-#EXTINF:-1 tvg-id="1150171" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - PSG VS SLOVAN BRATISLAVA 20:00 CET
+#EXTINF:-1 tvg-id="1150171" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - MANCHESTER UNITED VS SABAH 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150171.ts
-#EXTINF:-1 tvg-id="1095981" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - SPORTING CP VS GALATASARAY 20:00 CET
+#EXTINF:-1 tvg-id="1095981" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - SLAVIA PRAHA VS LENS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1095981.ts
 #EXTINF:-1 tvg-id="1024111" group-title="VIP | UEFA CHAMPIONS LEAGUE",DE - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024111.ts
@@ -175,17 +175,17 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039871.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024434.ts
 #EXTINF:-1 tvg-id="1296619" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### ALBANIAN ######
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1296619.ts
-#EXTINF:-1 tvg-id="1274757" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - BARCELONA VS FEYENOORD 17:45 CET
+#EXTINF:-1 tvg-id="1274757" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - FENERBAHÇE VS ROMA 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1274757.ts
-#EXTINF:-1 tvg-id="1274756" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - STUTTGART VS VIKING 17:45 CET
+#EXTINF:-1 tvg-id="1274756" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - PSV VS SHAKHTAR DONETSK 17:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1274756.ts
-#EXTINF:-1 tvg-id="1248255" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - LIVERPOOL VS ATLÉTICO MADRID 20:00 CET
+#EXTINF:-1 tvg-id="1248255" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - BAYERN MÜNCHEN VS BODØ / GLIMT 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1248255.ts
-#EXTINF:-1 tvg-id="1150172" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NAPOLI VS ARSENAL 20:00 CET
+#EXTINF:-1 tvg-id="1150172" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - COMO VS RB LEIPZIG 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150172.ts
-#EXTINF:-1 tvg-id="1150157" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - PSG VS SLOVAN BRATISLAVA 20:00 CET
+#EXTINF:-1 tvg-id="1150157" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - MANCHESTER UNITED VS SABAH 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150157.ts
-#EXTINF:-1 tvg-id="1150156" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - SPORTING CP VS GALATASARAY 20:00 CET
+#EXTINF:-1 tvg-id="1150156" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - SLAVIA PRAHA VS LENS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150156.ts
 #EXTINF:-1 tvg-id="1150154" group-title="VIP | UEFA CHAMPIONS LEAGUE",ALB - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150154.ts
@@ -739,7 +739,7 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017967.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017968.ts
 #EXTINF:-1 tvg-id="1032044" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL #### 
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1032044.ts
-#EXTINF:-1 tvg-id="1150149" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
+#EXTINF:-1 tvg-id="1150149" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - ESTRELA VS SPORTING BRAGA 20:15 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150149.ts
 #EXTINF:-1 tvg-id="1127869" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1127869.ts
@@ -857,6 +857,14 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1281083.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1301200.ts
 #EXTINF:-1 tvg-id="1281430" group-title="VIP | 4K ULTRA HD",VIP - SKY SPORTS MAIN EVENT 4K
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1281430.ts
+#EXTINF:-1 tvg-id="1292167" group-title="VIP | 4K ULTRA HD",VIP - ESPN 4K
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1292167.ts
+#EXTINF:-1 tvg-id="1361319" group-title="VIP | 4K ULTRA HD",VIP - BIG TEN NETWORK 4K
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1361319.ts
+#EXTINF:-1 tvg-id="71371" group-title="VIP | 4K ULTRA HD",VIP - FOX 4K
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/71371.ts
+#EXTINF:-1 tvg-id="71396" group-title="VIP | 4K ULTRA HD",VIP - NBC 4K
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/71396.ts
 #EXTINF:-1 tvg-id="1417564" group-title="VIP | 4K ULTRA HD",VIP - SPORTSNET 4K
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1417564.ts
 #EXTINF:-1 tvg-id="1417565" group-title="VIP | 4K ULTRA HD",VIP - SPORTSNET ONE 4K
