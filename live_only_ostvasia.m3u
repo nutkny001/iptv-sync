@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://greeneyegenie.com/xmltv.php?username=00F882A43D2340F&password=ry8gtvmfo7"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 18-09-2026 09:45 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 19-09-2026 01:29 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="682950" group-title="VIP | GOLDEN EVENTS",##### GOLDEN EVENTS #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682950.ts
@@ -593,7 +593,7 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018313.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001753.ts
 #EXTINF:-1 tvg-id="1018093" group-title="VIP | SERIE A",##### ITALY #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018093.ts
-#EXTINF:-1 tvg-id="1421365" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-id="1421365" group-title="VIP | SERIE A",IT - SASSUOLO VS MONZA – 19:45
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421365.ts
 #EXTINF:-1 tvg-id="1100791" group-title="VIP | SERIE A",IT - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100791.ts
@@ -615,7 +615,7 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018102.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018103.ts
 #EXTINF:-1 tvg-id="1001778" group-title="VIP | SERIE A",##### ENGLISH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001778.ts
-#EXTINF:-1 tvg-id="1421366" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-id="1421366" group-title="VIP | SERIE A",EN - SASSUOLO VS MONZA – 19:45
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421366.ts
 #EXTINF:-1 tvg-id="1100792" group-title="VIP | SERIE A",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100792.ts
@@ -637,7 +637,7 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018094.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018095.ts
 #EXTINF:-1 tvg-id="1001752" group-title="VIP | SERIE A",##### ARABIC #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001752.ts
-#EXTINF:-1 tvg-id="1421367" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-id="1421367" group-title="VIP | SERIE A",AR - SASSUOLO VS MONZA – 19:45
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421367.ts
 #EXTINF:-1 tvg-id="1421364" group-title="VIP | SERIE A",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421364.ts
@@ -739,7 +739,7 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017967.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1017968.ts
 #EXTINF:-1 tvg-id="1032044" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL #### 
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1032044.ts
-#EXTINF:-1 tvg-id="1150149" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
+#EXTINF:-1 tvg-id="1150149" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - REAL - ACADÉMICA 20:30 PM ET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150149.ts
 #EXTINF:-1 tvg-id="1127869" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1127869.ts
