@@ -1,32 +1,34 @@
 #EXTM3U url-tvg="http://greeneyegenie.com/xmltv.php?username=00F882A43D2340F&password=ry8gtvmfo7"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 25-09-2026 10:01 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 26-09-2026 10:04 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="682950" group-title="VIP | GOLDEN EVENTS",##### GOLDEN EVENTS #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682950.ts
-#EXTINF:-1 tvg-id="1123275" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+#EXTINF:-1 tvg-id="1123276" group-title="VIP | GOLDEN EVENTS",##### INTERNATIONAL FOOTBALL #####
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123276.ts
+#EXTINF:-1 tvg-id="1123275" group-title="VIP | GOLDEN EVENTS",VIP - SLOVENIA VS SCOTLAND 14:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123275.ts
-#EXTINF:-1 tvg-id="1123274" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+#EXTINF:-1 tvg-id="1123274" group-title="VIP | GOLDEN EVENTS",VIP - CZECH REPUBLIC VS CROATIA 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123274.ts
-#EXTINF:-1 tvg-id="1039934" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+#EXTINF:-1 tvg-id="1039934" group-title="VIP | GOLDEN EVENTS",VIP - NORTH MACEDONIA VS SWITZERLAND 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039934.ts
-#EXTINF:-1 tvg-id="1039920" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+#EXTINF:-1 tvg-id="1039920" group-title="VIP | GOLDEN EVENTS",VIP - ENGLAND VS SPAIN 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039920.ts
-#EXTINF:-1 tvg-id="1039905" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+#EXTINF:-1 tvg-id="1039905" group-title="VIP | GOLDEN EVENTS",VIP - ALBANIA VS BELARUS 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039905.ts
-#EXTINF:-1 tvg-id="682951" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682951.ts
-#EXTINF:-1 tvg-id="682962" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682962.ts
-#EXTINF:-1 tvg-id="682965" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682965.ts
-#EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024476.ts
+#EXTINF:-1 tvg-id="1024490" group-title="VIP | GOLDEN EVENTS",VIP - KENYA VS ERITREA 14:00 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024490.ts
+#EXTINF:-1 tvg-id="1024487" group-title="VIP | GOLDEN EVENTS",VIP - SOUTH AFRICA VS GUINEA 14:00 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024487.ts
 #EXTINF:-1 tvg-id="1024486" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024486.ts
-#EXTINF:-1 tvg-id="1024490" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024490.ts
-#EXTINF:-1 tvg-id="1024487" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024487.ts
+#EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024476.ts
+#EXTINF:-1 tvg-id="682965" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682965.ts
+#EXTINF:-1 tvg-id="682962" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682962.ts
+#EXTINF:-1 tvg-id="682951" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682951.ts
 #EXTINF:-1 tvg-id="1018100" group-title="VIP | GOLDEN EVENTS",##### FRENCH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018100.ts
 #EXTINF:-1 tvg-id="1123346" group-title="VIP | GOLDEN EVENTS",FR - NO EVENT
@@ -39,8 +41,6 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682966.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123278.ts
 #EXTINF:-1 tvg-id="1123277" group-title="VIP | GOLDEN EVENTS",FR - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123277.ts
-#EXTINF:-1 tvg-id="1123276" group-title="VIP | GOLDEN EVENTS",FR - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123276.ts
 #EXTINF:-1 tvg-id="682961" group-title="VIP | GOLDEN EVENTS",FR - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682961.ts
 #EXTINF:-1 tvg-id="1150144" group-title="VIP | GOLDEN EVENTS",##### ENGLISH #####
