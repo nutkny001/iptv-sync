@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://greeneyegenie.com/xmltv.php?username=00F882A43D2340F&password=ry8gtvmfo7"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 26-09-2026 10:04 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 27-09-2026 10:11 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="682950" group-title="VIP | GOLDEN EVENTS",##### GOLDEN EVENTS #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682950.ts
@@ -19,9 +19,9 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039905.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024490.ts
 #EXTINF:-1 tvg-id="1024487" group-title="VIP | GOLDEN EVENTS",VIP - SOUTH AFRICA VS GUINEA 14:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024487.ts
-#EXTINF:-1 tvg-id="1024486" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+#EXTINF:-1 tvg-id="1024486" group-title="VIP | GOLDEN EVENTS",VIP - UFC FIGHT NIGHT ROSAS JR @ BARCELOS – 5:00 PM ET / 10:00 PM UK
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024486.ts
-#EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+#EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - UFC FIGHT NIGHT ROSAS JR @ BARCELOS – 5:00 PM ET / 10:00 PM UK
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024476.ts
 #EXTINF:-1 tvg-id="682965" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682965.ts
