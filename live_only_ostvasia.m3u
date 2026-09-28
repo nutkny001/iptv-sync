@@ -1,27 +1,27 @@
 #EXTM3U url-tvg="http://greeneyegenie.com/xmltv.php?username=00F882A43D2340F&password=ry8gtvmfo7"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 27-09-2026 10:11 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 28-09-2026 10:07 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="682950" group-title="VIP | GOLDEN EVENTS",##### GOLDEN EVENTS #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682950.ts
 #EXTINF:-1 tvg-id="1123276" group-title="VIP | GOLDEN EVENTS",##### INTERNATIONAL FOOTBALL #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123276.ts
-#EXTINF:-1 tvg-id="1123275" group-title="VIP | GOLDEN EVENTS",VIP - SLOVENIA VS SCOTLAND 14:00 CET
+#EXTINF:-1 tvg-id="1123275" group-title="VIP | GOLDEN EVENTS",VIP - BELGIUM VS FRANCE 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123275.ts
-#EXTINF:-1 tvg-id="1123274" group-title="VIP | GOLDEN EVENTS",VIP - CZECH REPUBLIC VS CROATIA 19:45 CET
+#EXTINF:-1 tvg-id="1123274" group-title="VIP | GOLDEN EVENTS",VIP - NORTHERN IRELAND VS HUNGARY 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123274.ts
-#EXTINF:-1 tvg-id="1039934" group-title="VIP | GOLDEN EVENTS",VIP - NORTH MACEDONIA VS SWITZERLAND 19:45 CET
+#EXTINF:-1 tvg-id="1039934" group-title="VIP | GOLDEN EVENTS",VIP - ROMANIA VS BOSNIA AND HERZEGOVINA 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039934.ts
-#EXTINF:-1 tvg-id="1039920" group-title="VIP | GOLDEN EVENTS",VIP - ENGLAND VS SPAIN 19:45 CET
+#EXTINF:-1 tvg-id="1039920" group-title="VIP | GOLDEN EVENTS",VIP - SWEDEN VS POLAND 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039920.ts
-#EXTINF:-1 tvg-id="1039905" group-title="VIP | GOLDEN EVENTS",VIP - ALBANIA VS BELARUS 19:45 CET
+#EXTINF:-1 tvg-id="1039905" group-title="VIP | GOLDEN EVENTS",VIP - TURKEY VS ITALY 19:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039905.ts
-#EXTINF:-1 tvg-id="1024490" group-title="VIP | GOLDEN EVENTS",VIP - KENYA VS ERITREA 14:00 CET
+#EXTINF:-1 tvg-id="1024490" group-title="VIP | GOLDEN EVENTS",VIP - ZIMBABWE VS CONGO DR 17:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024490.ts
-#EXTINF:-1 tvg-id="1024487" group-title="VIP | GOLDEN EVENTS",VIP - SOUTH AFRICA VS GUINEA 14:00 CET
+#EXTINF:-1 tvg-id="1024487" group-title="VIP | GOLDEN EVENTS",VIP - EQUATORIAL GUINEA VS SIERRA LEONE 17:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024487.ts
-#EXTINF:-1 tvg-id="1024486" group-title="VIP | GOLDEN EVENTS",VIP - UFC FIGHT NIGHT ROSAS JR @ BARCELOS – 5:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-id="1024486" group-title="VIP | GOLDEN EVENTS",VIP - CENTRAL AFRICAN REPUBLIC VS BURKINA FASO 17:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024486.ts
-#EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - UFC FIGHT NIGHT ROSAS JR @ BARCELOS – 5:00 PM ET / 10:00 PM UK
+#EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - BOTSWANA VS TUNISIA 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024476.ts
 #EXTINF:-1 tvg-id="682965" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682965.ts
