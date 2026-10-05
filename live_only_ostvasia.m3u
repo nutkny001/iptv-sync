@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://greeneyegenie.com/xmltv.php?username=00F882A43D2340F&password=ry8gtvmfo7"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 04-10-2026 10:51 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 05-10-2026 10:35 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="1123276" group-title="VIP | GOLDEN EVENTS",##### UEFA NATIONS LEAGUE #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123276.ts
@@ -23,18 +23,18 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024487.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024486.ts
 #EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - MOROCCO VS MALI 18:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024476.ts
-#EXTINF:-1 tvg-id="682965" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682965.ts
-#EXTINF:-1 tvg-id="682962" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682962.ts
-#EXTINF:-1 tvg-id="682951" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682951.ts
-#EXTINF:-1 tvg-id="1018100" group-title="VIP | GOLDEN EVENTS",##### FRENCH #####
+#EXTINF:-1 tvg-id="1018100" group-title="VIP | GOLDEN EVENTS",##### COPA DEL REY #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018100.ts
-#EXTINF:-1 tvg-id="1123346" group-title="VIP | GOLDEN EVENTS",FR - NO EVENT
+#EXTINF:-1 tvg-id="682965" group-title="VIP | GOLDEN EVENTS",VIP - UNION GUIMAR - HORTALEZA 13:00 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682965.ts
+#EXTINF:-1 tvg-id="682951" group-title="VIP | GOLDEN EVENTS",VIP - PRAT - EL ESPINAR SANT RAFEL 16:00 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682951.ts
+#EXTINF:-1 tvg-id="1123346" group-title="VIP | GOLDEN EVENTS",VIP - NOJA - RIBADESELLA CF 16:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123346.ts
-#EXTINF:-1 tvg-id="1123334" group-title="VIP | GOLDEN EVENTS",FR - NO EVENT
+#EXTINF:-1 tvg-id="1123334" group-title="VIP | GOLDEN EVENTS",VIP - ALCAZAR - TALAYUELA 17:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123334.ts
+#EXTINF:-1 tvg-id="682962" group-title="VIP | GOLDEN EVENTS",VIP - ATLÉTICO MELILLA - PINATAR 20:00 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682962.ts
 #EXTINF:-1 tvg-id="682966" group-title="VIP | GOLDEN EVENTS",FR - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682966.ts
 #EXTINF:-1 tvg-id="1123278" group-title="VIP | GOLDEN EVENTS",FR - NO EVENT
