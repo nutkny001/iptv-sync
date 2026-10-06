@@ -1,40 +1,42 @@
 #EXTM3U url-tvg="http://greeneyegenie.com/xmltv.php?username=00F882A43D2340F&password=ry8gtvmfo7"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 05-10-2026 10:35 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 06-10-2026 11:24 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="1123276" group-title="VIP | GOLDEN EVENTS",##### UEFA NATIONS LEAGUE #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123276.ts
-#EXTINF:-1 tvg-id="1123275" group-title="VIP | GOLDEN EVENTS",VIP - KOSOVO VS AUSTRIA 16:00 CET
+#EXTINF:-1 tvg-id="1123275" group-title="VIP | GOLDEN EVENTS",VIP - KAZAKHSTAN VS FAROE ISLANDS 14:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123275.ts
-#EXTINF:-1 tvg-id="1123274" group-title="VIP | GOLDEN EVENTS",VIP - IRELAND REPUBLIC VS ISRAEL 18:45 CET
+#EXTINF:-1 tvg-id="1123274" group-title="VIP | GOLDEN EVENTS",VIP - CROATIA VS SPAIN 18:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123274.ts
-#EXTINF:-1 tvg-id="1039934" group-title="VIP | GOLDEN EVENTS",VIP - GREECE VS GERMANY 18:45 CET
+#EXTINF:-1 tvg-id="1039934" group-title="VIP | GOLDEN EVENTS",VIP - ENGLAND VS CZECH REPUBLIC 18:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039934.ts
-#EXTINF:-1 tvg-id="1039920" group-title="VIP | GOLDEN EVENTS",VIP - NETHERLANDS VS SERBIA 18:45 CET
+#EXTINF:-1 tvg-id="1039920" group-title="VIP | GOLDEN EVENTS",VIP - SCOTLAND VS SLOVENIA 18:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039920.ts
-#EXTINF:-1 tvg-id="1039905" group-title="VIP | GOLDEN EVENTS",VIP - PORTUGAL VS NORWAY 18:45 CET
+#EXTINF:-1 tvg-id="1039905" group-title="VIP | GOLDEN EVENTS",VIP - SWITZERLAND VS NORTH MACEDONIA 18:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039905.ts
-#EXTINF:-1 tvg-id="1024490" group-title="VIP | GOLDEN EVENTS",VIP - WALES VS DENMARK  18:45 CET
+#EXTINF:-1 tvg-id="1024490" group-title="VIP | GOLDEN EVENTS",VIP - MOLDOVA VS SLOVAKIA 18:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024490.ts
+#EXTINF:-1 tvg-id="1024487" group-title="VIP | GOLDEN EVENTS",VIP - LUXEMBOURG VS BULGARIA 18:45 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024487.ts
+#EXTINF:-1 tvg-id="1024486" group-title="VIP | GOLDEN EVENTS",VIP - ALBANIA VS SAN MARINO 18:45 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024486.ts
+#EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - ESTONIA VS ICELAND 18:45 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024476.ts
+#EXTINF:-1 tvg-id="682968" group-title="VIP | GOLDEN EVENTS",VIP - BELARUS VS FINLAND 18:45 CET
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682968.ts
 #EXTINF:-1 tvg-id="682950" group-title="VIP | GOLDEN EVENTS",##### AFCON #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682950.ts
-#EXTINF:-1 tvg-id="1024487" group-title="VIP | GOLDEN EVENTS",VIP - COMOROS VS SENEGAL 13:00 CET
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024487.ts
-#EXTINF:-1 tvg-id="1024486" group-title="VIP | GOLDEN EVENTS",VIP - EGYPT VS SOUTH AFRICA 18:00 CET
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024486.ts
-#EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - MOROCCO VS MALI 18:00 CET
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024476.ts
+#EXTINF:-1 tvg-id="682965" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682965.ts
+#EXTINF:-1 tvg-id="682951" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682951.ts
+#EXTINF:-1 tvg-id="1123346" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123346.ts
+#EXTINF:-1 tvg-id="1123334" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123334.ts
+#EXTINF:-1 tvg-id="682962" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
+http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682962.ts
 #EXTINF:-1 tvg-id="1018100" group-title="VIP | GOLDEN EVENTS",##### COPA DEL REY #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018100.ts
-#EXTINF:-1 tvg-id="682965" group-title="VIP | GOLDEN EVENTS",VIP - UNION GUIMAR - HORTALEZA 13:00 CET
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682965.ts
-#EXTINF:-1 tvg-id="682951" group-title="VIP | GOLDEN EVENTS",VIP - PRAT - EL ESPINAR SANT RAFEL 16:00 CET
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682951.ts
-#EXTINF:-1 tvg-id="1123346" group-title="VIP | GOLDEN EVENTS",VIP - NOJA - RIBADESELLA CF 16:00 CET
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123346.ts
-#EXTINF:-1 tvg-id="1123334" group-title="VIP | GOLDEN EVENTS",VIP - ALCAZAR - TALAYUELA 17:30 CET
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123334.ts
-#EXTINF:-1 tvg-id="682962" group-title="VIP | GOLDEN EVENTS",VIP - ATLÉTICO MELILLA - PINATAR 20:00 CET
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682962.ts
 #EXTINF:-1 tvg-id="682966" group-title="VIP | GOLDEN EVENTS",FR - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682966.ts
 #EXTINF:-1 tvg-id="1123278" group-title="VIP | GOLDEN EVENTS",FR - NO EVENT
@@ -45,8 +47,6 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123277.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682961.ts
 #EXTINF:-1 tvg-id="1150144" group-title="VIP | GOLDEN EVENTS",##### ENGLISH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1150144.ts
-#EXTINF:-1 tvg-id="682968" group-title="VIP | GOLDEN EVENTS",EN - NO EVENT
-http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682968.ts
 #EXTINF:-1 tvg-id="682967" group-title="VIP | GOLDEN EVENTS",EN - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682967.ts
 #EXTINF:-1 tvg-id="682955" group-title="VIP | GOLDEN EVENTS",EN - NO EVENT
