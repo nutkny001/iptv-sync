@@ -1,25 +1,25 @@
 #EXTM3U url-tvg="http://greeneyegenie.com/xmltv.php?username=00F882A43D2340F&password=ry8gtvmfo7"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 28-10-2026 10:36 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 29-10-2026 10:57 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="1123276" group-title="VIP | GOLDEN EVENTS",##### GOLDEN EVENTS #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123276.ts
 #EXTINF:-1 tvg-id="1248793" group-title="VIP | GOLDEN EVENTS",##### COPA DEL REY #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1248793.ts
-#EXTINF:-1 tvg-id="1123275" group-title="VIP | GOLDEN EVENTS",VIP - CUARTE INDUSTRIAL - GIRONA 17:30 CET
+#EXTINF:-1 tvg-id="1123275" group-title="VIP | GOLDEN EVENTS",VIP - TARANCÓN VS LEVANTE 18:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123275.ts
-#EXTINF:-1 tvg-id="1123274" group-title="VIP | GOLDEN EVENTS",VIP - SESTAO RIVER - ESPANYOL 18:00 CET
+#EXTINF:-1 tvg-id="1123274" group-title="VIP | GOLDEN EVENTS",VIP - ANAITASUNA FT VS DEPORTIVO ALAVÉS 18:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1123274.ts
-#EXTINF:-1 tvg-id="1039934" group-title="VIP | GOLDEN EVENTS",VIP - PINATAR - ELCHE 18:00 CET
+#EXTINF:-1 tvg-id="1039934" group-title="VIP | GOLDEN EVENTS",VIP - CD BADAJOZ VS TENERIFE 19:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039934.ts
-#EXTINF:-1 tvg-id="1039920" group-title="VIP | GOLDEN EVENTS",VIP - RSD ALCALÁ - LAS PALMAS 18:00 CET
+#EXTINF:-1 tvg-id="1039920" group-title="VIP | GOLDEN EVENTS",VIP - NAVALCARNERO VS REAL BETIS 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039920.ts
-#EXTINF:-1 tvg-id="1039905" group-title="VIP | GOLDEN EVENTS",VIP - MANRESA - SANT ANDREU 19:30 CET
+#EXTINF:-1 tvg-id="1039905" group-title="VIP | GOLDEN EVENTS",VIP - SALAMANCA UDS VS CELTA DE VIGO 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1039905.ts
-#EXTINF:-1 tvg-id="1024486" group-title="VIP | GOLDEN EVENTS",VIP - ALCAZAR - MÁLAGA 20:00 CET
+#EXTINF:-1 tvg-id="1024486" group-title="VIP | GOLDEN EVENTS",VIP - TAVERNES VS VALENCIA 20:00 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024486.ts
-#EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - MANACOR - VILLARREAL 20:00 CET
+#EXTINF:-1 tvg-id="1024476" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024476.ts
-#EXTINF:-1 tvg-id="682968" group-title="VIP | GOLDEN EVENTS",VIP - RECREATIVO HUELVA - RAYO VALLECANO 20:00 CET
+#EXTINF:-1 tvg-id="682968" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682968.ts
 #EXTINF:-1 tvg-id="682965" group-title="VIP | GOLDEN EVENTS",VIP - NO EVENT
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682965.ts
@@ -367,7 +367,7 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/682941.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1024461.ts
 #EXTINF:-1 tvg-id="1020754" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1020754.ts
-#EXTINF:-1 tvg-id="1100811" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-id="1100811" group-title="VIP | PREMIER LEAGUE",EN - EVERTON VS NEWCASTLE UNITED 20:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100811.ts
 #EXTINF:-1 tvg-id="1100810" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100810.ts
@@ -389,7 +389,7 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015548.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015547.ts
 #EXTINF:-1 tvg-id="1020753" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1020753.ts
-#EXTINF:-1 tvg-id="1100813" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-id="1100813" group-title="VIP | PREMIER LEAGUE",FR - EVERTON VS NEWCASTLE UNITED 20:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100813.ts
 #EXTINF:-1 tvg-id="1100812" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100812.ts
@@ -411,7 +411,7 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015540.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1015539.ts
 #EXTINF:-1 tvg-id="1020752" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1020752.ts
-#EXTINF:-1 tvg-id="1100815" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-id="1100815" group-title="VIP | PREMIER LEAGUE",AR - EVERTON VS NEWCASTLE UNITED 20:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100815.ts
 #EXTINF:-1 tvg-id="1100814" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100814.ts
@@ -613,15 +613,15 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018313.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001753.ts
 #EXTINF:-1 tvg-id="1018093" group-title="VIP | SERIE A",##### ITALY #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018093.ts
-#EXTINF:-1 tvg-id="1421365" group-title="VIP | SERIE A",IT - SASSUOLO VS LAZIO – 18:30 CET
+#EXTINF:-1 tvg-id="1421365" group-title="VIP | SERIE A",IT - MILAN VS BOLOGNA 18:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421365.ts
-#EXTINF:-1 tvg-id="1100791" group-title="VIP | SERIE A",IT - AS ROMA VS CAGLIARI – 20:45 PM ET
+#EXTINF:-1 tvg-id="1100791" group-title="VIP | SERIE A",IT - PARMA VS UDINESE 18:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100791.ts
-#EXTINF:-1 tvg-id="1100790" group-title="VIP | SERIE A",IT - TORINO VS COMO – 20:45 PM ET
+#EXTINF:-1 tvg-id="1100790" group-title="VIP | SERIE A",IT - VENEZIA VS INTERNAZIONALE 18:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100790.ts
-#EXTINF:-1 tvg-id="1033757" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-id="1033757" group-title="VIP | SERIE A",IT - GENOA VS JUVENTUS 20:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1033757.ts
-#EXTINF:-1 tvg-id="1033756" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-id="1033756" group-title="VIP | SERIE A",IT - MONZA VS NAPOLI 20:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1033756.ts
 #EXTINF:-1 tvg-id="1018106" group-title="VIP | SERIE A",IT - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018106.ts
@@ -635,15 +635,15 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018102.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018103.ts
 #EXTINF:-1 tvg-id="1001778" group-title="VIP | SERIE A",##### ENGLISH #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001778.ts
-#EXTINF:-1 tvg-id="1421366" group-title="VIP | SERIE A",EN - SASSUOLO VS LAZIO – 18:30 CET
+#EXTINF:-1 tvg-id="1421366" group-title="VIP | SERIE A",EN - MILAN VS BOLOGNA 18:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421366.ts
-#EXTINF:-1 tvg-id="1100792" group-title="VIP | SERIE A",EN - AS ROMA VS CAGLIARI – 20:45 PM ET
+#EXTINF:-1 tvg-id="1100792" group-title="VIP | SERIE A",EN - PARMA VS UDINESE 18:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1100792.ts
-#EXTINF:-1 tvg-id="1028898" group-title="VIP | SERIE A",EN - TORINO VS COMO – 20:45 PM ET
+#EXTINF:-1 tvg-id="1028898" group-title="VIP | SERIE A",EN - VENEZIA VS INTERNAZIONALE 18:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1028898.ts
-#EXTINF:-1 tvg-id="1028731" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-id="1028731" group-title="VIP | SERIE A",EN - GENOA VS JUVENTUS 20:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1028731.ts
-#EXTINF:-1 tvg-id="1028730" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-id="1028730" group-title="VIP | SERIE A",EN - MONZA VS NAPOLI 20:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1028730.ts
 #EXTINF:-1 tvg-id="1018098" group-title="VIP | SERIE A",EN - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018098.ts
@@ -657,15 +657,15 @@ http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018094.ts
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018095.ts
 #EXTINF:-1 tvg-id="1001752" group-title="VIP | SERIE A",##### ARABIC #####
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1001752.ts
-#EXTINF:-1 tvg-id="1421367" group-title="VIP | SERIE A",AR - SASSUOLO VS LAZIO – 18:30 CET
+#EXTINF:-1 tvg-id="1421367" group-title="VIP | SERIE A",AR - MILAN VS BOLOGNA 18:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421367.ts
-#EXTINF:-1 tvg-id="1421364" group-title="VIP | SERIE A",AR - AS ROMA VS CAGLIARI – 20:45 PM ET
+#EXTINF:-1 tvg-id="1421364" group-title="VIP | SERIE A",AR - PARMA VS UDINESE 18:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421364.ts
-#EXTINF:-1 tvg-id="1421363" group-title="VIP | SERIE A",AR - TORINO VS COMO – 20:45 PM ET
+#EXTINF:-1 tvg-id="1421363" group-title="VIP | SERIE A",AR - VENEZIA VS INTERNAZIONALE 18:30 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421363.ts
-#EXTINF:-1 tvg-id="1421362" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-id="1421362" group-title="VIP | SERIE A",AR - GENOA VS JUVENTUS 20:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1421362.ts
-#EXTINF:-1 tvg-id="1018113" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-id="1018113" group-title="VIP | SERIE A",AR - MONZA VS NAPOLI 20:45 CET
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018113.ts
 #EXTINF:-1 tvg-id="1018112" group-title="VIP | SERIE A",AR - NO MATCH
 http://greeneyegenie.com/live/00F882A43D2340F/ry8gtvmfo7/1018112.ts
